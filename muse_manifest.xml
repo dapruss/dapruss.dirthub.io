@@ -1,0 +1,40 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://dapruss.github.io" resolutions="1x" timestamp="1443678347178">
+  <folder name="css">
+    <file name="site_global.css" crc="282696827"/>
+    <file name="projects.css" crc="407003026" ref="projects"/>
+    <file name="index.css" crc="3829422844" ref="index"/>
+    <file name="research.css" crc="3780122567" ref="research"/>
+    <file name="master_a-master.css" crc="4054844503" ref="research:index:projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects"/>
+    <file name="museutils.js" crc="275725342" ref="index:research:projects"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects"/>
+    <file name="pie.js" crc="3827607177" ref="index:research:projects"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="research:projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects"/>
+  </folder>
+  <folder name="images">
+    <file name="img_5339.jpg" crc="29692407" seo="true" ref="index"/>
+    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects"/>
+    <file name="u228-4.png" crc="4054267414" ref="index"/>
+    <file name="u230-4.png" crc="3917207303" ref="index"/>
+    <file name="u231-4.png" crc="4046827010" ref="index"/>
+    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects"/>
+    <file name="u614-16.png" crc="283937910" ref="index"/>
+    <file name="img_5345.jpg" crc="289777181" seo="true" ref="research:projects"/>
+    <file name="u265-4.png" crc="4054267414" ref="research"/>
+    <file name="u266-4.png" crc="3917207303" ref="research"/>
+    <file name="u267-4.png" crc="4046827010" ref="research"/>
+    <file name="u443-16.png" crc="283937910" ref="research"/>
+    <file name="u554-4.png" crc="4054267414" ref="projects"/>
+    <file name="u557-4.png" crc="3917207303" ref="projects"/>
+    <file name="u558-4.png" crc="4046827010" ref="projects"/>
+    <file name="u613-16.png" crc="283937910" ref="projects"/>
+    <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research"/>
+  </folder>
+  <file name="index.html" crc="4164945386" seo="true" mt="1443678155074" redirect="true"/>
+  <file name="research.html" crc="3862717634" seo="true" mt="1443678120413" redirect="true"/>
+  <file name="projects.html" crc="4162520910" seo="true" mt="1443678338087" redirect="true"/>
+</manifest>
