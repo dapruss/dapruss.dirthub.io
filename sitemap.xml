@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dapruss.github.io/images/githublogo.png</loc>
+    <loc>http://dashapruss.com/images/githublogo.png</loc>
+    <lastmod>2015-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/images/linkedinlogo.png</loc>
+    <lastmod>2015-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/images/marclab2.jpg</loc>
+    <lastmod>2015-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/index.html</loc>
+    <lastmod>2015-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/research.html</loc>
     <lastmod>2015-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dapruss.github.io/images/linkedinlogo.png</loc>
-    <lastmod>2015-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dapruss.github.io/images/marclab2.jpg</loc>
-    <lastmod>2015-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dapruss.github.io/index.html</loc>
-    <lastmod>2015-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dapruss.github.io/research.html</loc>
-    <lastmod>2015-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dapruss.github.io/projects.html</loc>
+    <loc>http://dashapruss.com/projects.html</loc>
     <lastmod>2015-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

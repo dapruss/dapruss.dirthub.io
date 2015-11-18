@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://dapruss.github.io" resolutions="1x" timestamp="1447479690835">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1447885897249">
   <folder name="css">
-    <file name="site_global.css" crc="282696827"/>
+    <file name="site_global.css" crc="4000440369"/>
     <file name="projects.css" crc="3988414088" ref="projects"/>
     <file name="index.css" crc="370949910" ref="index"/>
     <file name="research.css" crc="216537983" ref="research"/>
@@ -33,7 +33,7 @@
     <file name="u1103-4.png" crc="4046827010" ref="research:projects"/>
     <file name="u1104-16.png" crc="283937910" ref="research:projects"/>
   </folder>
-  <file name="index.html" crc="169534303" seo="true" mt="1447479629749" redirect="true"/>
-  <file name="research.html" crc="4211198635" seo="true" mt="1447479629860" redirect="true"/>
-  <file name="projects.html" crc="3906816377" seo="true" mt="1447479629860" redirect="true"/>
+  <file name="index.html" crc="279783255" seo="true" mt="1447885885641" redirect="true"/>
+  <file name="research.html" crc="283899235" seo="true" mt="1447479629860" redirect="true"/>
+  <file name="projects.html" crc="391893460" seo="true" mt="1447479629860" redirect="true"/>
 </manifest>
