@@ -47,8 +47,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	font-size: 20px;
+	text-align: center;
 	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -78,8 +78,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	font-size: 20px;
+	text-align: center;
 	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -103,19 +103,14 @@
 	background-color: #000000;
 }
 
-#u1587.MuseMenuActive,#u1636.MuseMenuActive,#u1805.MuseMenuActive
-{
-	background-color: transparent;
-}
-
 #u1807-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	font-size: 20px;
+	text-align: center;
 	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -128,7 +123,43 @@
 	visibility: inherit;
 }
 
-#u1587.MuseMenuActive #u1588-4 p,#u1636.MuseMenuActive #u1637-4 p,#u1805.MuseMenuActive #u1807-4 p
+#u1902,#u1903
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1903:hover
+{
+	background-color: #000000;
+}
+
+#u1587.MuseMenuActive,#u1636.MuseMenuActive,#u1805.MuseMenuActive,#u1903.MuseMenuActive
+{
+	background-color: transparent;
+}
+
+#u1905-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: center;
+	line-height: 24px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1903:hover #u1905-4 p
+{
+	color: #FEDAFF;
+	visibility: inherit;
+}
+
+#u1587.MuseMenuActive #u1588-4 p,#u1636.MuseMenuActive #u1637-4 p,#u1805.MuseMenuActive #u1807-4 p,#u1903.MuseMenuActive #u1905-4 p
 {
 	color: #FF8BCE;
 	visibility: inherit;
@@ -149,9 +180,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #FFFFFF;
 	font-size: 30px;
 	line-height: 36px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;

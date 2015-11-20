@@ -47,8 +47,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	font-size: 20px;
+	text-align: center;
 	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -78,8 +78,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	font-size: 20px;
+	text-align: center;
 	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -103,19 +103,14 @@
 	background-color: #000000;
 }
 
-#u1601.MuseMenuActive,#u1652.MuseMenuActive,#u1819.MuseMenuActive
-{
-	background-color: transparent;
-}
-
 #u1820-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	font-size: 20px;
+	text-align: center;
 	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -128,7 +123,43 @@
 	visibility: inherit;
 }
 
-#u1601.MuseMenuActive #u1604-4 p,#u1652.MuseMenuActive #u1655-4 p,#u1819.MuseMenuActive #u1820-4 p
+#u1909,#u1912
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1912:hover
+{
+	background-color: #000000;
+}
+
+#u1601.MuseMenuActive,#u1652.MuseMenuActive,#u1819.MuseMenuActive,#u1912.MuseMenuActive
+{
+	background-color: transparent;
+}
+
+#u1915-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: center;
+	line-height: 24px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1912:hover #u1915-4 p
+{
+	color: #FEDAFF;
+	visibility: inherit;
+}
+
+#u1601.MuseMenuActive #u1604-4 p,#u1652.MuseMenuActive #u1655-4 p,#u1819.MuseMenuActive #u1820-4 p,#u1912.MuseMenuActive #u1915-4 p
 {
 	color: #FF8BCE;
 	visibility: inherit;
@@ -149,9 +180,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #FFFFFF;
 	font-size: 30px;
 	line-height: 36px;
+	color: #FFFFFF;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -174,8 +205,8 @@
 #u1503-4
 {
 	background-color: transparent;
-	text-align: justify;
 	font-size: 21px;
+	text-align: justify;
 	line-height: 25px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;

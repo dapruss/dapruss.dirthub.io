@@ -1,38 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://dashapruss.com/assets/dashaprusscv.pdf</loc>
+    <lastmod>2015-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/assets/dashaprusscv2.pdf</loc>
+    <lastmod>2015-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/assets/dashaprusscv3.pdf</loc>
+    <lastmod>2015-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://dashapruss.com/images/githublogo.png</loc>
-    <lastmod>2015-11-18</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://dashapruss.com/images/linkedinlogo.png</loc>
-    <lastmod>2015-11-18</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://dashapruss.com/images/marclab2.jpg</loc>
-    <lastmod>2015-11-18</lastmod>
+    <lastmod>2015-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/images/dasha_hat.jpg</loc>
+    <lastmod>2015-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/images/img_3717.jpg</loc>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://dashapruss.com/index.html</loc>
-    <lastmod>2015-11-18</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://dashapruss.com/research.html</loc>
-    <lastmod>2015-11-13</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://dashapruss.com/projects.html</loc>
-    <lastmod>2015-11-13</lastmod>
+    <lastmod>2015-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/about.html</loc>
+    <lastmod>2015-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/projects-copy.html</loc>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

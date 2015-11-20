@@ -1,7 +1,7 @@
-.version.research /* version checker */
+.version.about /* version checker */
 {
-	color: #000009;
-	background-color: #861AEB;
+	color: #0000FE;
+	background-color: #D30998;
 }
 
 .html
@@ -275,40 +275,28 @@
 	left: 103px;
 }
 
-#pu1715
+#pu1896
 {
-	z-index: 72;
 	width: 0.01px;
-	position: relative;
-	margin-left: -20px;
+	margin-left: -18px;
 	margin-top: 25px;
 }
 
-#u1715
+#u1896
 {
-	z-index: 0;
-	width: 980px;
+	z-index: 72;
+	width: 978px;
+	height: 767px;
 	background-color: #FFFFFF;
 	opacity: 0.9;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 16px;
-	position: absolute;
-	top: 0px;
-	bottom: 0px;
-}
-
-#pu1716
-{
-	width: 0.01px;
 	position: relative;
-	left: 26px;
-	padding-top: 25px;
-	z-index: 2;
-	padding-bottom: 14px;
+	margin-right: -10000px;
 }
 
-#u1716
+#u2105
 {
 	z-index: 73;
 	width: 928px;
@@ -317,148 +305,175 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 14px;
+	left: 24px;
 }
 
-#u1717-53
+#u1897
 {
 	z-index: 74;
 	width: 928px;
-	min-height: 521px;
-	background-color: transparent;
-	text-align: justify;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u1717-2
-{
-	font-size: 23px;
-	line-height: 28px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: italic;
-}
-
-#u1717-4
-{
-	font-size: 21px;
-	color: #FFFFFF;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u1717-3
-{
-	font-size: 10px;
-	line-height: 12px;
-}
-
-#u1717-13
-{
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 600;
-}
-
-#u1717-6,#u1717-8,#u1717-15
-{
-	text-decoration: none;
-	color: #000AA0;
-}
-
-#u1718
-{
-	float: right;
-	margin-bottom: 3px;
-	margin-left: 24px;
-	margin-right: 10px;
-}
-
-#u1719
-{
-	z-index: 96;
-	width: 323px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-}
-
-#u1720
-{
-	z-index: 97;
-	width: 323px;
-	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1722-7
+#u1898-44
 {
-	z-index: 99;
-	width: 310px;
-	min-height: 44px;
+	z-index: 75;
+	width: 928px;
+	min-height: 521px;
 	background-color: transparent;
-	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 325px;
-	left: 7px;
 }
 
-#u1717-24
+#u2104
+{
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 3px;
+	margin-right: 23px;
+}
+
+#u2098
+{
+	z-index: 80;
+	width: 340px;
+	background-color: transparent;
+}
+
+#u1898-8
+{
+	font-size: 23px;
+	text-align: justify;
+	color: #FFFFFF;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1898-7
+{
+	font-size: 8px;
+	line-height: 10px;
+}
+
+#u1898-15
+{
+	font-size: 22px;
+	text-align: justify;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1898-13
+{
+	font-size: 23px;
+	line-height: 28px;
+}
+
+#u1898-14
+{
+	line-height: 26px;
+}
+
+#u1898-17
+{
+	font-size: 12px;
+	text-align: justify;
+	line-height: 14px;
+	color: #FFFFFF;
+}
+
+#u1898-22
+{
+	font-size: 23px;
+	text-align: center;
+	line-height: 28px;
+}
+
+#u1898-18,#u1898-19,#u1898-21
 {
 	font-weight: 700;
-	font-style: normal;
 }
 
-#u1717-30
+#u1898-12,#u1898-24
 {
-	font-size: 21px;
-	line-height: 25px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 600;
-	font-style: normal;
+	font-size: 8px;
+	text-align: justify;
+	line-height: 10px;
+	color: #FFFFFF;
 }
 
-#u1717-35
+#u2097
 {
-	font-style: normal;
+	float: right;
+	margin: 18px 10px 2px 24px;
 }
 
-#u1717-10,#u1717-20,#u1717-43
+#u2091
 {
-	font-size: 21px;
-	line-height: 25px;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
+	z-index: 107;
+	width: 376px;
+	background-color: transparent;
 }
 
-#u1717-12,#u1717-22,#u1717-28,#u1717-32,#u1717-39,#u1717-45
+#u1898-26
+{
+	font-size: 4px;
+	color: #FFFFFF;
+	line-height: 5px;
+}
+
+#u1898-27,#u1898-32
+{
+	font-size: 23px;
+	text-align: justify;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1898-30
 {
 	font-size: 10px;
 	line-height: 12px;
+}
+
+#u1898-31
+{
+	font-size: 8px;
 	color: #FFFFFF;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
+	line-height: 10px;
+}
+
+#u1898-6,#u1898-10,#u1898-29,#u1898-40,#u1898-41
+{
+	font-size: 23px;
+	text-align: justify;
+	line-height: 28px;
+}
+
+#u1898-42
+{
+	font-size: 23px;
+	text-align: justify;
+	line-height: 28px;
 	font-style: normal;
 }
 
-#u1717-26,#u1717-37,#u1717-51
+#u2053-4
 {
-	font-size: 21px;
-	line-height: 25px;
+	z-index: 125;
+	width: 369px;
+	min-height: 46px;
+	background-color: transparent;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
-	font-style: italic;
-}
-
-#u1722-3,#u1717-34,#u1717-41,#u1717-47,#u1717-49
-{
-	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 712px;
+	left: 542px;
 }
 
 #u1095
@@ -466,7 +481,7 @@
 	z-index: 36;
 	width: 1160px;
 	left: -100px;
-	margin-top: 235px;
+	margin-top: 262px;
 }
 
 #u1102-3
