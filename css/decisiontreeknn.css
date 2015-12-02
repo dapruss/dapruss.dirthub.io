@@ -1,7 +1,7 @@
-.version.ml2 /* version checker */
+.version.decisiontreeknn /* version checker */
 {
-	color: #000018;
-	background-color: #94416C;
+	color: #00000E;
+	background-color: #EACA6E;
 }
 
 .html
@@ -275,25 +275,25 @@
 	left: 103px;
 }
 
-#pu2146
+#pu1993
 {
 	width: 0.01px;
 	margin-left: -18px;
 	margin-top: 25px;
 }
 
-#u2146
+#u1993
 {
 	z-index: 72;
 	width: 978px;
 	background-color: #FFFFFF;
 	border-radius: 16px;
-	padding-bottom: 26px;
+	padding-bottom: 54px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u2147
+#u1994
 {
 	z-index: 73;
 	width: 928px;
@@ -306,7 +306,7 @@
 	left: 24px;
 }
 
-#u2148-25
+#u1995-28
 {
 	z-index: 74;
 	width: 928px;
@@ -322,9 +322,14 @@
 	margin-right: -10000px;
 }
 
-#u2144
+#u1995
 {
-	z-index: 99;
+	font-weight: 700;
+}
+
+#u2126
+{
+	z-index: 102;
 	width: 124px;
 	min-height: 59px;
 	border-style: none;
@@ -332,8 +337,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 481px;
-	left: 393px;
+	margin-top: 487px;
+	left: 408px;
 }
 
 #u1095
@@ -341,7 +346,7 @@
 	z-index: 36;
 	width: 1160px;
 	left: -100px;
-	margin-top: 369px;
+	margin-top: 313px;
 }
 
 #u1102-3
