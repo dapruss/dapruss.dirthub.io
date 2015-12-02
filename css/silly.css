@@ -1,7 +1,7 @@
-.version.svm /* version checker */
+.version.silly /* version checker */
 {
-	color: #000007;
-	background-color: #6A3FA2;
+	color: #0000EA;
+	background-color: #FFE3BD;
 }
 
 .html
@@ -275,19 +275,19 @@
 	left: 103px;
 }
 
-#u2217
+#u2341
 {
 	z-index: 72;
 	width: 978px;
 	background-color: #FFFFFF;
 	border-radius: 16px;
-	padding-bottom: 28px;
+	padding-bottom: 22px;
 	left: -18px;
 	margin-top: 25px;
 	position: relative;
 }
 
-#u2206
+#u2330
 {
 	z-index: 73;
 	width: 928px;
@@ -300,84 +300,63 @@
 	left: 24px;
 }
 
-#u2207-43
+#u2331-6
 {
 	z-index: 74;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
-	font-size: 23px;
 	line-height: 28px;
+	text-align: justify;
+	font-size: 23px;
 	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u2207-12
+#u2348-7
 {
-	text-align: center;
-	font-weight: 400;
-}
-
-#u2242
-{
-	margin: -3px -9px -15px;
-}
-
-#u2236
-{
-	z-index: 88;
-	width: 470px;
+	z-index: 80;
+	width: 928px;
+	min-height: 521px;
 	background-color: transparent;
-}
-
-#u2207,#u2207-14
-{
-	font-weight: 700;
-}
-
-#u2207-19
-{
+	line-height: 28px;
 	text-align: justify;
-	font-weight: 700;
+	font-size: 23px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
 	font-style: normal;
 }
 
-#u2249
-{
-	z-index: 104;
-	width: 568px;
-	background-color: transparent;
-}
-
-#u2207-9,#u2207-22,#u2207-28
+#u2331,#u2348
 {
 	font-size: 1px;
 	line-height: 0px;
 }
 
-#u2262
+#u2350
 {
-	z-index: 113;
-	width: 441px;
+	z-index: 86;
+	width: 913px;
 	background-color: transparent;
 }
 
-#u2236_img,#u2249_img,#u2262_img
+#u2350_img
 {
 	vertical-align: bottom;
 }
 
-#u2207-33
+#u2353-9
 {
-	font-style: italic;
-}
-
-#u2207-5,#u2207-6,#u2207-8,#u2207-16,#u2207-17,#u2207-21,#u2207-25,#u2207-27,#u2207-31,#u2207-35,#u2207-36,#u2207-41
-{
-	text-align: justify;
+	z-index: 90;
+	width: 914px;
+	min-height: 25px;
+	background-color: transparent;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
-	font-style: normal;
 }
 
 #u1095
@@ -385,7 +364,7 @@
 	z-index: 36;
 	width: 1160px;
 	left: -100px;
-	margin-top: 148px;
+	margin-top: 462px;
 }
 
 #u1102-3
