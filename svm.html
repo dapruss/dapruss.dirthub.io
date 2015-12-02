@@ -3,17 +3,17 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "jquery.musemenu.js", "jquery.watch.js", "perceptron.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.musemenu.js", "jquery.watch.js", "svm.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2015.0.2.310"/>
   <link rel="shortcut icon" href="images/favicon.ico?3779405195"/>
-  <title>Perceptron</title>
+  <title>SVM</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?282696827"/>
   <link rel="stylesheet" type="text/css" href="css/master_childpage.css?529766104"/>
-  <link rel="stylesheet" type="text/css" href="css/perceptron.css?141069076" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/svm.css?3825504347" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -23,7 +23,7 @@
   <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
   <![endif]-->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//use.typekit.net/ik/HsPq_3oPwLisPxGGbOP8PDaX8CLPB5Pf91YOtkmbBK9feTJgfVLPvMIPH2woF2JaFDmLFD9twD6hZe9UjAbu5e9twRi8whj3ZQ6kFQ9u52StjQw-YhsyShyySY4uSaw0jhNlOfG0ZeBD-eB3S1mDSkoRdhXK2aFziW4RZPuDjAoDOWgkdkGHfVeeMsMMeMb6MKGHfV5eMsMMeMS6MKGHfVAeMsMMeMt6MqGIQWmDZZMgcE1NC69.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//use.typekit.net/ik/3VQ-geYtYjr1pEOPVJL2AfNBYULSACa251hgYYZW056feTJgfVLPvMIPH2woF2JaFDmLFD9twD6hZe9UjAbu5e9twRi8whj3ZQ6kFQ9u52StjQw-YhsyShyySY4uSaw0jhNlOfG0ZeBD-eB3S1mDSkoRdhXK2aFziW4RZPuDjAoDOWgkdkGHfVeeMsMMeMb6MKGHfV5eMsMMeMS6MKGHfVAeMsMMeMt6MqGIQWmDZZMg1H1NC69.js" type="text/javascript">\x3C/script>');
 </script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -34,7 +34,7 @@
 
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <div class="museBGSize mse_pre_init" id="u1609"><!-- simple frame --></div>
+    <div class="mse_pre_init" id="u1609"><!-- simple frame --></div>
     <div class="clearfix colelem" id="u1062"><!-- group -->
      <div class="clearfix ose_pre_init grpelem" id="u1063-3"><!-- content -->
       <p id="u1063">&nbsp;</p>
@@ -57,20 +57,23 @@
       <p>Dasha Pruss</p>
      </div>
     </div>
-    <div class="rounded-corners clearfix colelem" id="u2146"><!-- group -->
-     <div class="clearfix grpelem" id="u2147"><!-- group -->
-      <div class="clearfix grpelem" id="u2148-38"><!-- content -->
-       <p id="u2148-5"><span id="u2148">Perceptron implementation</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="nonblock" href="projects.html">Back to Projects</a></p>
-       <p id="u2148-6">&nbsp;</p>
-       <p id="u2148-12">First, I implemented a regular perceptron. I perform an update on an example (<span id="u2148-8">x</span>, y) (note: bold-face denotes vectors) if <span><span class="actAsInlineDiv normal_text" id="u2174"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2168"><!-- image --><img id="u2168_img" src="images/update.jpg" alt="" width="141" height="36"/></span></span></span>This is the equivalent of checking if&nbsp; the sign of the true label is the same as the predicted label; if they are different signs (positive and negative), their product is always negative. When the prediction is incorrect, we update the weight vector:</p>
-       <p id="u2148-16"><span id="u2148-13">​</span><span><span class="actAsInlineDiv normal_text" id="u2181"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2175"><!-- image --><img id="u2175_img" src="images/perceptron.jpg" alt="" width="222" height="52"/></span></span></span></p>
-       <p id="u2148-22">Note that the data set includes a bias term, so the bias term does not need to be explicitly mentioned above. Here, <span id="u2148-18">w</span> is a weight vector that I initialize to random values between 0 and 1 and <span id="u2148-20">r</span><span> is a hyper-parameter that can be found using cross-validation on the data.</span></p>
-       <p id="u2148-23">&nbsp;</p>
-       <p id="u2148-25">Margin Perceptron</p>
-       <p id="u2148-26">&nbsp;</p>
-       <p id="u2148-30">This uses the same implementation as Perceptron; the only difference is that it checks if the product of the actual label and predicted label is less than or equal to the margin, rather than 0, so we update if <span><span class="actAsInlineDiv normal_text" id="u2200"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2194"><!-- image --><img id="u2194_img" src="images/margin.jpg" alt="" width="125" height="31"/></span></span></span><span>, where μ is another hyper-parameter that is found through cross-validation.</span></p>
-       <p id="u2148-31">&nbsp;</p>
-       <p id="u2148-36">Source code and a description of my dataset can be found <a class="nonblock" href="https://github.com/dapruss/Machine-Learning-Implementations/tree/master/src/PerceptronExperiment">here</a>.</p>
+    <div class="rounded-corners clearfix colelem" id="u2217"><!-- group -->
+     <div class="clearfix grpelem" id="u2206"><!-- group -->
+      <div class="clearfix grpelem" id="u2207-43"><!-- content -->
+       <p id="u2207-5"><span id="u2207">Support Vector Machine (SVM) implementation</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="nonblock" href="projects.html">Back to Projects</a></p>
+       <p id="u2207-6">&nbsp;</p>
+       <p id="u2207-8"><span>To create my SVM, I built on my Perceptron implementation but modified the update condition and update process with stochastic sub-gradient descent. An SVM learns a classifier by minimizing this loss function (note: bold-face denotes vectors):</span></p>
+       <p id="u2207-12"><span id="u2207-9">​</span><span><span class="actAsInlineDiv normal_text" id="u2242"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2236"><!-- image --><img id="u2236_img" src="images/svm_loss.jpg" alt="" width="470" height="73"/></span></span></span></p>
+       <p id="u2207-16">C is a hyper-parameter that controls the importance of the first term relative to the second (error) term; <span id="u2207-14">x</span><span> is a vector full of real numbers, and y is a negative or positive label.</span></p>
+       <p id="u2207-17">&nbsp;</p>
+       <p id="u2207-19">Stochastic Gradient Descent (SGD)</p>
+       <p id="u2207-21"><span>SGD is like traditional gradient descent, except the gradient is calculated using only a single example.</span></p>
+       <p id="u2207-25"><span id="u2207-22">​</span><span><span class="actAsInlineDiv normal_text" id="u2255"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2249"><!-- image --><img id="u2249_img" src="images/sgd_loop.jpg" alt="" width="568" height="243"/></span></span></span><span></span></p>
+       <p id="u2207-27"><span>The gradient is defined in the following way:</span></p>
+       <p id="u2207-31"><span id="u2207-28">​</span><span><span class="actAsInlineDiv normal_text" id="u2268"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2262"><!-- image --><img id="u2262_img" src="images/sgd_formula.jpg" alt="" width="441" height="99"/></span></span></span><span></span></p>
+       <p id="u2207-35">The learning rate <span id="u2207-33">r</span><span> is a function of the initial learning rate, ρ0, and the example number, t.</span></p>
+       <p id="u2207-36">&nbsp;</p>
+       <p id="u2207-41">Source code and a description of my dataset can be found <a class="nonblock" href="https://github.com/dapruss/Machine-Learning-Implementations/tree/master/src/SVMExperiment">here</a>.</p>
       </div>
      </div>
     </div>
@@ -106,7 +109,6 @@ Salt Lake City, UT 84112
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?275725342" type="text/javascript"></script>
-  <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
   <script src="scripts/jquery.scrolleffects.js?206645848" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>

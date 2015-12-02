@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449085380305">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449088159579">
   <folder name="assets">
     <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
     <file name="dashaprusscv2.pdf" crc="325183310" seo="true" mt="1449041777000"/>
@@ -9,47 +9,52 @@
     <file name="projects.css" crc="4058464635" ref="projects"/>
     <file name="index.css" crc="4009805718" ref="index"/>
     <file name="research.css" crc="129994396" ref="research"/>
-    <file name="master_childpage.css" crc="529766104" ref="research:projects:about:perceptron:decisiontreeknn"/>
+    <file name="master_childpage.css" crc="529766104" ref="research:projects:about:perceptron:decisiontreeknn:svm"/>
     <file name="master_b-master.css" crc="4035851484" ref="index"/>
     <file name="about.css" crc="4275243416" ref="about"/>
     <file name="perceptron.css" crc="141069076" ref="perceptron"/>
     <file name="decisiontreeknn.css" crc="250268270" ref="decisiontreeknn"/>
+    <file name="svm.css" crc="3825504347" ref="svm"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:decisiontreeknn:perceptron"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:about:projects"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:decisiontreeknn:perceptron:svm"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:about:projects:perceptron"/>
   </folder>
   <folder name="images">
     <file name="img_5339.jpg" crc="3944345672" ref="index"/>
-    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="img_5345.jpg" crc="4182803950" ref="research:about:projects"/>
+    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="img_5345.jpg" crc="4182803950" ref="research:about:projects:perceptron"/>
     <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research"/>
-    <file name="favicon.ico" crc="3779405195" ref="index:about:research:projects"/>
+    <file name="favicon.ico" crc="3779405195" ref="index:about:research:projects:perceptron"/>
     <file name="u1484-4.png" crc="4054267414" ref="index"/>
     <file name="u1491-4.png" crc="3917207303" ref="index"/>
     <file name="u1485-4.png" crc="4046827010" ref="index"/>
     <file name="u1490-16.png" crc="283937910" ref="index"/>
-    <file name="u1099-4.png" crc="4054267414" ref="research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="u1096-4.png" crc="3917207303" ref="research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="u1103-4.png" crc="4046827010" ref="research:projects:about:decisiontreeknn:perceptron"/>
-    <file name="u1104-16.png" crc="283937910" ref="research:projects:about:decisiontreeknn:perceptron"/>
+    <file name="u1099-4.png" crc="4054267414" ref="research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="u1096-4.png" crc="3917207303" ref="research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="u1103-4.png" crc="4046827010" ref="research:projects:about:decisiontreeknn:perceptron:svm"/>
+    <file name="u1104-16.png" crc="283937910" ref="research:projects:about:decisiontreeknn:perceptron:svm"/>
     <file name="dasha_hat.jpg" crc="434487307" seo="true" ref="about"/>
     <file name="img_3717.jpg" crc="258326268" seo="true" ref="about"/>
     <file name="update.jpg" crc="4073445501" seo="true" ref="perceptron"/>
     <file name="perceptron.jpg" crc="3770550502" seo="true" ref="perceptron"/>
     <file name="margin.jpg" crc="3913957952" seo="true" ref="perceptron"/>
+    <file name="svm_loss.jpg" crc="2152437" seo="true" ref="svm"/>
+    <file name="sgd_loop.jpg" crc="4024086434" seo="true" ref="svm"/>
+    <file name="sgd_formula.jpg" crc="231984698" seo="true" ref="svm"/>
   </folder>
   <file name="index.html" crc="4162746809" seo="true" mt="1447977341962" redirect="true"/>
   <file name="research.html" crc="190502292" seo="true" mt="1449041742984" redirect="true"/>
   <file name="projects.html" crc="352330747" seo="true" mt="1449080692489" redirect="true"/>
   <file name="about.html" crc="142274133" seo="true" mt="1447977853454" redirect="true"/>
   <file name="decisiontreeknn.html" crc="47390151" seo="true" mt="1449081179876" redirect="true"/>
-  <file name="perceptron.html" crc="4222806407" seo="true" mt="1449085362845" redirect="true"/>
+  <file name="perceptron.html" crc="194094181" seo="true" mt="1449085542385" redirect="true"/>
+  <file name="svm.html" crc="92165299" seo="true" mt="1449088144342" redirect="true"/>
 </manifest>
