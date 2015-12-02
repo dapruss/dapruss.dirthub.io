@@ -1,7 +1,7 @@
-.version.projects_copy /* version checker */
+.version.ml2 /* version checker */
 {
-	color: #0000FD;
-	background-color: #CEB53A;
+	color: #000018;
+	background-color: #94416C;
 }
 
 .html
@@ -275,19 +275,25 @@
 	left: 103px;
 }
 
-#u1993
+#pu2146
+{
+	width: 0.01px;
+	margin-left: -18px;
+	margin-top: 25px;
+}
+
+#u2146
 {
 	z-index: 72;
 	width: 978px;
 	background-color: #FFFFFF;
 	border-radius: 16px;
 	padding-bottom: 26px;
-	left: -18px;
-	margin-top: 25px;
 	position: relative;
+	margin-right: -10000px;
 }
 
-#u1994
+#u2147
 {
 	z-index: 73;
 	width: 928px;
@@ -300,34 +306,34 @@
 	left: 24px;
 }
 
-#u1995-48
+#u2148-25
 {
 	z-index: 74;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
+	line-height: 28px;
 	text-align: justify;
 	font-size: 23px;
-	line-height: 28px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
+	font-style: normal;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1995-18 > li:before,#u1995-25 > li:before,#u1995-32 > li:before,#u1995-39 > li:before,#u1995-46 > li:before
+#u2144
 {
-	content: '-';
-}
-
-#u1995-3,#u1995-5,#u1995-8,#u1995-11,#u1995-14,#u1995-12,#u1995-17,#u1995-15,#u1995-19,#u1995-21,#u1995-24,#u1995-26,#u1995-28,#u1995-27,#u1995-31,#u1995-33,#u1995-35,#u1995-38,#u1995-40,#u1995-42,#u1995-45
-{
-	font-style: normal;
-}
-
-#u1995-2,#u1995-7,#u1995-10,#u1995-13,#u1995-16,#u1995-23,#u1995-30,#u1995-37,#u1995-44
-{
-	font-style: italic;
+	z-index: 99;
+	width: 124px;
+	min-height: 59px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 481px;
+	left: 393px;
 }
 
 #u1095
@@ -335,7 +341,7 @@
 	z-index: 36;
 	width: 1160px;
 	left: -100px;
-	margin-top: 341px;
+	margin-top: 369px;
 }
 
 #u1102-3

@@ -1,50 +1,52 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1447977868250">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449041777889">
   <folder name="assets">
-    <file name="dashaprusscv.pdf" crc="4192389343" seo="true" mt="1447977013000"/>
+    <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
     <file name="dashaprusscv2.pdf" crc="4192389343" seo="true" mt="1447977013000"/>
     <file name="dashaprusscv3.pdf" crc="4192389343" seo="true" mt="1447977013000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4000440369"/>
-    <file name="projects.css" crc="4037134114" ref="projects"/>
+    <file name="site_global.css" crc="282696827"/>
+    <file name="projects.css" crc="3808145608" ref="projects"/>
     <file name="index.css" crc="4009805718" ref="index"/>
-    <file name="research.css" crc="159783659" ref="research"/>
-    <file name="master_childpage.css" crc="3809717584" ref="research:projects:about:projects-copy"/>
+    <file name="research.css" crc="129994396" ref="research"/>
+    <file name="master_childpage.css" crc="529766104" ref="research:projects:about:ml2:ml1"/>
     <file name="master_b-master.css" crc="4035851484" ref="index"/>
     <file name="about.css" crc="4275243416" ref="about"/>
-    <file name="projects-copy.css" crc="4258182458" ref="projects-copy"/>
+    <file name="ml2.css" crc="412369260" ref="ml2"/>
+    <file name="ml1.css" crc="4110933451" ref="ml1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:projects-copy"/>
-    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:projects-copy"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:projects-copy"/>
-    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:projects-copy"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:projects-copy"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:projects-copy"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:projects-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:ml1:ml2"/>
+    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:ml1:ml2"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:ml1:ml2"/>
+    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:ml1:ml2"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:ml1:ml2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:ml1:ml2"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:ml1:ml2"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:about"/>
   </folder>
   <folder name="images">
     <file name="img_5339.jpg" crc="3944345672" ref="index"/>
-    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:projects-copy"/>
-    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:projects-copy"/>
+    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:ml1:ml2"/>
+    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:ml1:ml2"/>
     <file name="img_5345.jpg" crc="4182803950" ref="research:about"/>
     <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research"/>
-    <file name="favicon.ico" crc="3779405195" ref="index:about"/>
+    <file name="favicon.ico" crc="3779405195" ref="index:about:research"/>
     <file name="u1484-4.png" crc="4054267414" ref="index"/>
     <file name="u1491-4.png" crc="3917207303" ref="index"/>
     <file name="u1485-4.png" crc="4046827010" ref="index"/>
     <file name="u1490-16.png" crc="283937910" ref="index"/>
-    <file name="u1099-4.png" crc="4054267414" ref="research:projects:about:projects-copy"/>
-    <file name="u1096-4.png" crc="3917207303" ref="research:projects:about:projects-copy"/>
-    <file name="u1103-4.png" crc="4046827010" ref="research:projects:about:projects-copy"/>
-    <file name="u1104-16.png" crc="283937910" ref="research:projects:about:projects-copy"/>
+    <file name="u1099-4.png" crc="4054267414" ref="research:projects:about:ml1:ml2"/>
+    <file name="u1096-4.png" crc="3917207303" ref="research:projects:about:ml1:ml2"/>
+    <file name="u1103-4.png" crc="4046827010" ref="research:projects:about:ml1:ml2"/>
+    <file name="u1104-16.png" crc="283937910" ref="research:projects:about:ml1:ml2"/>
     <file name="dasha_hat.jpg" crc="434487307" seo="true" ref="about"/>
     <file name="img_3717.jpg" crc="258326268" seo="true" ref="about"/>
   </folder>
   <file name="index.html" crc="4162746809" seo="true" mt="1447977341962" redirect="true"/>
-  <file name="research.html" crc="4276946767" seo="true" mt="1447977305270" redirect="true"/>
-  <file name="projects.html" crc="4291065281" seo="true" mt="1447977305270" redirect="true"/>
+  <file name="research.html" crc="190502292" seo="true" mt="1449041742984" redirect="true"/>
+  <file name="projects.html" crc="3818714573" seo="true" mt="1449041725807" redirect="true"/>
   <file name="about.html" crc="142274133" seo="true" mt="1447977853454" redirect="true"/>
-  <file name="projects-copy.html" crc="4112485823" seo="true" mt="1447977305270" redirect="true"/>
+  <file name="ml1.html" crc="152933367" seo="true" mt="1449041298054" redirect="true"/>
+  <file name="ml2.html" crc="255502945" seo="true" mt="1449041402547" redirect="true"/>
 </manifest>
