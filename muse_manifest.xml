@@ -1,6 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449090839165">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449091098791">
   <folder name="assets">
     <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
+    <file name="cv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="282696827"/>
@@ -53,7 +54,7 @@
   <file name="index.html" crc="4162746809" seo="true" mt="1447977341962" redirect="true"/>
   <file name="research.html" crc="190502292" seo="true" mt="1449041742984" redirect="true"/>
   <file name="projects.html" crc="4008489936" seo="true" mt="1449088216197" redirect="true"/>
-  <file name="about.html" crc="4079594465" seo="true" mt="1449090829166" redirect="true"/>
+  <file name="about.html" crc="152590600" seo="true" mt="1449091088157" redirect="true"/>
   <file name="decisiontreeknn.html" crc="47390151" seo="true" mt="1449081179876" redirect="true"/>
   <file name="perceptron.html" crc="194094181" seo="true" mt="1449085542385" redirect="true"/>
   <file name="svm.html" crc="430067846" seo="true" mt="1449088584381" redirect="true"/>
