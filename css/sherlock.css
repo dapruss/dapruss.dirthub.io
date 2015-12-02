@@ -1,7 +1,7 @@
-.version.projects /* version checker */
+.version.sherlock /* version checker */
 {
-	color: #0000F4;
-	background-color: #C1D84A;
+	color: #000004;
+	background-color: #4A62B6;
 }
 
 .html
@@ -275,78 +275,88 @@
 	left: 103px;
 }
 
-#pu1792
+#u2381
 {
 	z-index: 72;
-	width: 0.01px;
-	position: relative;
-	margin-left: -18px;
-	margin-top: 25px;
-}
-
-#u1792
-{
-	z-index: 0;
 	width: 978px;
 	background-color: #FFFFFF;
-	opacity: 0.9;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-	filter: alpha(opacity=90);
 	border-radius: 16px;
-	position: absolute;
-	top: 0px;
-	bottom: 0px;
-}
-
-#pu1793
-{
-	width: 0.01px;
+	left: -18px;
+	margin-top: 25px;
 	position: relative;
-	left: 24px;
-	padding-top: 25px;
-	z-index: 2;
-	padding-bottom: 46px;
 }
 
-#u1793
+#u2370
 {
 	z-index: 73;
 	width: 928px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-bottom: -112px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 25px;
+	left: 24px;
 }
 
-#u1794-71
+#u2371-25
 {
 	z-index: 74;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
+	line-height: 28px;
 	text-align: justify;
 	font-size: 23px;
-	line-height: 28px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1794-18 > li:before,#u1794-40 > li:before,#u1794-55 > li:before,#u1794-62 > li:before,#u1794-69 > li:before
+#u2371
 {
-	content: '-';
+	font-weight: 700;
 }
 
-#u1794-3,#u1794-5,#u1794-8,#u1794-11,#u1794-14,#u1794-12,#u1794-17,#u1794-15,#u1794-19,#u1794-21,#u1794-24,#u1794-29,#u1794-34,#u1794-39,#u1794-41,#u1794-43,#u1794-42,#u1794-48,#u1794-49,#u1794-54,#u1794-56,#u1794-58,#u1794-61,#u1794-63,#u1794-65,#u1794-68
+#u2406
+{
+	float: left;
+	margin-top: 7px;
+	margin-left: 7px;
+	margin-right: 20px;
+}
+
+#u2400
+{
+	z-index: 85;
+	width: 327px;
+	background-color: transparent;
+}
+
+#u2371-5,#u2371-6,#u2371-13,#u2371-14,#u2371-19,#u2371-20,#u2371-23
 {
 	font-style: normal;
 }
 
-#u1794-2,#u1794-7,#u1794-10,#u1794-13,#u1794-16,#u1794-23,#u1794-28,#u1794-33,#u1794-38,#u1794-47,#u1794-51,#u1794-53,#u1794-60,#u1794-67
+#u2421
 {
-	font-style: italic;
+	float: left;
+	margin-top: -15px;
+	margin-bottom: 15px;
+	margin-left: 8px;
+}
+
+#u2420-8
+{
+	z-index: 102;
+	width: 325px;
+	min-height: 35px;
+	background-color: transparent;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
 }
 
 #u1095
@@ -354,7 +364,7 @@
 	z-index: 36;
 	width: 1160px;
 	left: -100px;
-	margin-top: 293px;
+	margin-top: 602px;
 }
 
 #u1102-3
