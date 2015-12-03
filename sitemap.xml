@@ -104,18 +104,12 @@
   </url>
   <url>
     <loc>http://dashapruss.com/projects.html</loc>
-    <lastmod>2015-12-02</lastmod>
+    <lastmod>2015-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://dashapruss.com/about.html</loc>
-    <lastmod>2015-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dashapruss.com/decisiontreeknn.html</loc>
     <lastmod>2015-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -141,6 +135,12 @@
   <url>
     <loc>http://dashapruss.com/sherlock.html</loc>
     <lastmod>2015-12-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dashapruss.com/decision-trees-and-knn.html</loc>
+    <lastmod>2015-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
