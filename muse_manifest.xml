@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449096787373">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449177349002">
   <folder name="assets">
     <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
     <file name="cv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
@@ -7,7 +7,7 @@
     <file name="site_global.css" crc="282696827"/>
     <file name="projects.css" crc="4106344522" ref="projects"/>
     <file name="index.css" crc="4009805718" ref="index"/>
-    <file name="research.css" crc="129994396" ref="research"/>
+    <file name="research.css" crc="100406723" ref="research"/>
     <file name="master_childpage.css" crc="529766104" ref="research:projects:about:perceptron:decisiontreeknn:svm:silly:sherlock"/>
     <file name="master_b-master.css" crc="4035851484" ref="index"/>
     <file name="about.css" crc="4275243416" ref="about"/>
@@ -54,7 +54,7 @@
     <file name="sherlock.jpg" crc="4048076510" seo="true" ref="sherlock"/>
   </folder>
   <file name="index.html" crc="4162746809" seo="true" mt="1447977341962" redirect="true"/>
-  <file name="research.html" crc="190502292" seo="true" mt="1449041742984" redirect="true"/>
+  <file name="research.html" crc="4094336079" seo="true" mt="1449177326127" redirect="true"/>
   <file name="projects.html" crc="4047222072" seo="true" mt="1449096775473" redirect="true"/>
   <file name="about.html" crc="152590600" seo="true" mt="1449091088157" redirect="true"/>
   <file name="decisiontreeknn.html" crc="47390151" seo="true" mt="1449081179876" redirect="true"/>
