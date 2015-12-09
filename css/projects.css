@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000F4;
-	background-color: #C1D84A;
+	color: #00000E;
+	background-color: #88CD5E;
 }
 
 .html
@@ -319,32 +319,32 @@
 	margin-right: -10000px;
 }
 
-#u1794-71
+#u1794-73
 {
 	z-index: 74;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
-	text-align: justify;
-	font-size: 23px;
 	line-height: 28px;
+	font-size: 23px;
+	text-align: justify;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u1794-18 > li:before,#u1794-40 > li:before,#u1794-55 > li:before,#u1794-62 > li:before,#u1794-69 > li:before
+#u1794-20 > li:before,#u1794-42 > li:before,#u1794-57 > li:before,#u1794-64 > li:before,#u1794-71 > li:before
 {
 	content: '-';
 }
 
-#u1794-3,#u1794-5,#u1794-8,#u1794-11,#u1794-14,#u1794-12,#u1794-17,#u1794-15,#u1794-19,#u1794-21,#u1794-24,#u1794-29,#u1794-34,#u1794-39,#u1794-41,#u1794-43,#u1794-42,#u1794-48,#u1794-49,#u1794-54,#u1794-56,#u1794-58,#u1794-61,#u1794-63,#u1794-65,#u1794-68
+#u1794-3,#u1794-5,#u1794-8,#u1794-11,#u1794-14,#u1794-12,#u1794-19,#u1794-17,#u1794-21,#u1794-23,#u1794-26,#u1794-31,#u1794-36,#u1794-41,#u1794-43,#u1794-45,#u1794-44,#u1794-50,#u1794-51,#u1794-56,#u1794-58,#u1794-60,#u1794-63,#u1794-65,#u1794-67,#u1794-70
 {
 	font-style: normal;
 }
 
-#u1794-2,#u1794-7,#u1794-10,#u1794-13,#u1794-16,#u1794-23,#u1794-28,#u1794-33,#u1794-38,#u1794-47,#u1794-51,#u1794-53,#u1794-60,#u1794-67
+#u1794-2,#u1794-7,#u1794-10,#u1794-13,#u1794-18,#u1794-25,#u1794-30,#u1794-35,#u1794-40,#u1794-49,#u1794-53,#u1794-55,#u1794-62,#u1794-69
 {
 	font-style: italic;
 }
