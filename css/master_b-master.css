@@ -46,10 +46,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
 	text-align: center;
-	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -77,10 +77,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
 	text-align: center;
-	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -108,10 +108,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
 	text-align: center;
-	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -144,10 +144,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
 	text-align: center;
-	line-height: 24px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -180,9 +180,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	font-size: 30px;
 	line-height: 36px;
 	color: #FFFFFF;
+	font-size: 30px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -205,9 +205,9 @@
 #u1503-4
 {
 	background-color: transparent;
+	line-height: 25px;
 	font-size: 21px;
 	text-align: justify;
-	line-height: 25px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 600;
 	font-style: normal;

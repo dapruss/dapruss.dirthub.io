@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449645243022">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449695539608">
   <folder name="assets">
     <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
     <file name="cv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
@@ -9,7 +9,7 @@
     <file name="index.css" crc="4009805718" ref="index"/>
     <file name="research.css" crc="100406723" ref="research"/>
     <file name="master_childpage.css" crc="4176694098" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="master_b-master.css" crc="4035851484" ref="index"/>
+    <file name="master_b-master.css" crc="4247622738" ref="index"/>
     <file name="about.css" crc="4275243416" ref="about"/>
     <file name="perceptron.css" crc="141069076" ref="perceptron"/>
     <file name="svm.css" crc="124403618" ref="svm"/>
@@ -53,7 +53,7 @@
     <file name="dasha_pruss_food_classifier.jpg" crc="3853327620" seo="true" ref="silly"/>
     <file name="sherlock.jpg" crc="4048076510" seo="true" ref="sherlock"/>
   </folder>
-  <file name="index.html" crc="4162746809" seo="true" mt="1447977341962" redirect="true"/>
+  <file name="index.html" crc="3934632953" seo="true" mt="1449695517652" redirect="true"/>
   <file name="research.html" crc="4094336079" seo="true" mt="1449177326127" redirect="true"/>
   <file name="projects.html" crc="3870790304" seo="true" mt="1449645062074" redirect="true"/>
   <file name="about.html" crc="152590600" seo="true" mt="1449091088157" redirect="true"/>
