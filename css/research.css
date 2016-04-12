@@ -1,7 +1,7 @@
 .version.research /* version checker */
 {
-	color: #000005;
-	background-color: #FC15C3;
+	color: #000009;
+	background-color: #3AC41A;
 }
 
 .html
@@ -277,51 +277,41 @@
 
 #pu1715
 {
-	z-index: 72;
 	width: 0.01px;
-	position: relative;
 	margin-left: -20px;
 	margin-top: 25px;
 }
 
 #u1715
 {
-	z-index: 0;
+	z-index: 73;
 	width: 980px;
+	height: 557px;
 	background-color: #FFFFFF;
 	opacity: 0.9;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 16px;
-	position: absolute;
-	top: 0px;
-	bottom: 0px;
-}
-
-#pu1716
-{
-	width: 0.01px;
 	position: relative;
-	left: 26px;
-	padding-top: 25px;
-	z-index: 2;
-	padding-bottom: 2px;
+	margin-right: -10000px;
 }
 
 #u1716
 {
-	z-index: 73;
+	z-index: 74;
 	width: 928px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 26px;
+	left: 26px;
 }
 
 #u1717-15
 {
-	z-index: 74;
+	z-index: 75;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
@@ -333,8 +323,8 @@
 
 #u1717-2
 {
-	font-size: 21px;
-	line-height: 25px;
+	font-size: 17px;
+	line-height: 20px;
 	font-weight: 700;
 	font-style: normal;
 }
@@ -348,15 +338,24 @@
 	font-style: normal;
 }
 
+#u1717-7
+{
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
 #u2431
 {
 	float: right;
-	margin: 8px 10px -8px 24px;
+	margin-top: 17px;
+	margin-bottom: -17px;
+	margin-left: 24px;
 }
 
 #u2423
 {
-	z-index: 83;
+	z-index: 84;
 	width: 323px;
 	border-style: none;
 	border-color: transparent;
@@ -365,7 +364,7 @@
 
 #u2425
 {
-	z-index: 84;
+	z-index: 85;
 	width: 323px;
 	background-color: transparent;
 	position: relative;
@@ -374,7 +373,7 @@
 
 #u2424-7
 {
-	z-index: 86;
+	z-index: 87;
 	width: 310px;
 	min-height: 44px;
 	background-color: transparent;
@@ -383,7 +382,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 325px;
+	margin-top: 336px;
 	left: 7px;
 }
 
@@ -392,18 +391,30 @@
 	font-style: italic;
 }
 
-#u1717-7,#u1717-8
+#u1717-6
+{
+	font-size: 17px;
+	line-height: 21px;
+}
+
+#u1717-8
 {
 	font-size: 21px;
 	line-height: 25px;
 	font-weight: 400;
-	font-style: normal;
 }
 
-#u1717-10,#u1717-12
+#u1717-10
 {
-	font-size: 18px;
-	line-height: 22px;
+	font-size: 17px;
+	line-height: 21px;
+	font-weight: 400;
+}
+
+#u1717-12
+{
+	font-size: 16px;
+	line-height: 19px;
 	font-weight: 400;
 	font-style: normal;
 }
@@ -416,12 +427,24 @@
 	font-style: italic;
 }
 
+#u2474-3
+{
+	z-index: 101;
+	width: 3px;
+	min-height: 35px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 207px;
+	left: 1035px;
+}
+
 #u1095
 {
 	z-index: 36;
 	width: 1160px;
 	left: -100px;
-	margin-top: 334px;
+	margin-top: 479px;
 }
 
 #u1102-3
@@ -493,7 +516,7 @@
 	left: 1px;
 }
 
-#u1104-16
+#u1104-17
 {
 	z-index: 56;
 	margin-right: -10000px;

@@ -1,21 +1,21 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1449695539608">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1460498861750">
   <folder name="assets">
     <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
     <file name="cv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="282696827"/>
-    <file name="projects.css" crc="243846494" ref="projects"/>
-    <file name="index.css" crc="4009805718" ref="index"/>
-    <file name="research.css" crc="100406723" ref="research"/>
-    <file name="master_childpage.css" crc="4176694098" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="master_b-master.css" crc="4247622738" ref="index"/>
-    <file name="about.css" crc="4275243416" ref="about"/>
-    <file name="perceptron.css" crc="141069076" ref="perceptron"/>
-    <file name="svm.css" crc="124403618" ref="svm"/>
-    <file name="silly.css" crc="3942638525" ref="silly"/>
-    <file name="sherlock.css" crc="71983798" ref="sherlock"/>
-    <file name="decision-trees-and-knn.css" crc="250268270" ref="decision-trees-and-knn"/>
+    <file name="projects.css" crc="53384541" ref="projects"/>
+    <file name="index.css" crc="4042290480" ref="index"/>
+    <file name="research.css" crc="154846234" ref="research"/>
+    <file name="master_childpage.css" crc="4007079935" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
+    <file name="master_b-master.css" crc="490959001" ref="index"/>
+    <file name="about.css" crc="141617266" ref="about"/>
+    <file name="perceptron.css" crc="3817503347" ref="perceptron"/>
+    <file name="svm.css" crc="4217432073" ref="svm"/>
+    <file name="silly.css" crc="193264356" ref="silly"/>
+    <file name="sherlock.css" crc="273623340" ref="sherlock"/>
+    <file name="decision-trees-and-knn.css" crc="3829802493" ref="decision-trees-and-knn"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
@@ -25,41 +25,41 @@
     <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:about:projects:perceptron"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research"/>
   </folder>
   <folder name="images">
     <file name="img_5339.jpg" crc="3944345672" ref="index"/>
     <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
     <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="img_5345.jpg" crc="4182803950" ref="research:about:projects:perceptron"/>
+    <file name="img_5345.jpg" crc="4182803950" ref="research"/>
     <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research"/>
-    <file name="favicon.ico" crc="3779405195" ref="index:about:research:projects:perceptron"/>
-    <file name="u1484-4.png" crc="4054267414" ref="index"/>
-    <file name="u1491-4.png" crc="3917207303" ref="index"/>
-    <file name="u1485-4.png" crc="4046827010" ref="index"/>
-    <file name="u1490-16.png" crc="283937910" ref="index"/>
-    <file name="u1099-4.png" crc="4054267414" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="u1096-4.png" crc="3917207303" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="u1103-4.png" crc="4046827010" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="u1104-16.png" crc="283937910" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="dasha_hat.jpg" crc="434487307" seo="true" ref="about"/>
-    <file name="img_3717.jpg" crc="258326268" seo="true" ref="about"/>
-    <file name="update.jpg" crc="4073445501" seo="true" ref="perceptron"/>
-    <file name="perceptron.jpg" crc="3770550502" seo="true" ref="perceptron"/>
-    <file name="margin.jpg" crc="3913957952" seo="true" ref="perceptron"/>
-    <file name="svm_loss.jpg" crc="2152437" seo="true" ref="svm"/>
-    <file name="sgd_loop.jpg" crc="4024086434" seo="true" ref="svm"/>
-    <file name="sgd_formula.jpg" crc="231984698" seo="true" ref="svm"/>
+    <file name="favicon.ico" crc="3779405195" ref="index"/>
+    <file name="u1484-4.png" crc="14758115" ref="index"/>
+    <file name="u1491-4.png" crc="260390181" ref="index"/>
+    <file name="u1485-4.png" crc="4197678703" ref="index"/>
+    <file name="u1099-4.png" crc="14758115" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
+    <file name="u1096-4.png" crc="260390181" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
+    <file name="u1103-4.png" crc="4197678703" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
+    <file name="img_3717.jpg" crc="4088469930" seo="true" ref="about"/>
+    <file name="update.jpg" crc="12290700" seo="true" ref="perceptron"/>
+    <file name="perceptron.jpg" crc="4277614404" seo="true" ref="perceptron"/>
+    <file name="margin.jpg" crc="19036492" seo="true" ref="perceptron"/>
+    <file name="svm_loss.jpg" crc="372436170" seo="true" ref="svm"/>
+    <file name="sgd_loop.jpg" crc="4073454301" seo="true" ref="svm"/>
+    <file name="sgd_formula.jpg" crc="4210949930" seo="true" ref="svm"/>
     <file name="dasha_pruss_food_classifier.jpg" crc="3853327620" seo="true" ref="silly"/>
     <file name="sherlock.jpg" crc="4048076510" seo="true" ref="sherlock"/>
+    <file name="u1490-17.png" crc="3831224479" ref="index"/>
+    <file name="u1104-17.png" crc="3831224479" ref="research:projects:about:decision-trees-and-knn:perceptron:svm:silly:sherlock"/>
+    <file name="headshot_recent.jpg" crc="3974827642" seo="true" ref="about"/>
   </folder>
-  <file name="index.html" crc="3934632953" seo="true" mt="1449695517652" redirect="true"/>
-  <file name="research.html" crc="4094336079" seo="true" mt="1449177326127" redirect="true"/>
-  <file name="projects.html" crc="3870790304" seo="true" mt="1449645062074" redirect="true"/>
-  <file name="about.html" crc="152590600" seo="true" mt="1449091088157" redirect="true"/>
-  <file name="perceptron.html" crc="194094181" seo="true" mt="1449085542385" redirect="true"/>
-  <file name="svm.html" crc="430067846" seo="true" mt="1449088584381" redirect="true"/>
-  <file name="silly.html" crc="460019945" seo="true" mt="1449090002651" redirect="true"/>
-  <file name="sherlock.html" crc="483547583" seo="true" mt="1449096760152" redirect="true"/>
-  <file name="decision-trees-and-knn.html" crc="3848564091" seo="true" mt="1449177755909" redirect="true"/>
+  <file name="index.html" crc="4078154894" seo="true" mt="1460498010599" redirect="true"/>
+  <file name="research.html" crc="214104415" seo="true" mt="1460498459220" redirect="true"/>
+  <file name="projects.html" crc="301360264" seo="true" mt="1460498459220" redirect="true"/>
+  <file name="about.html" crc="178587378" seo="true" mt="1460498823300" redirect="true"/>
+  <file name="perceptron.html" crc="379090745" seo="true" mt="1460498459220" redirect="true"/>
+  <file name="svm.html" crc="129156467" seo="true" mt="1460498459220" redirect="true"/>
+  <file name="silly.html" crc="345460309" seo="true" mt="1460498459220" redirect="true"/>
+  <file name="sherlock.html" crc="513635063" seo="true" mt="1460498459220" redirect="true"/>
+  <file name="decision-trees-and-knn.html" crc="127689256" seo="true" mt="1460498459220" redirect="true"/>
 </manifest>

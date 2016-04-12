@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #00000E;
-	background-color: #88CD5E;
+	color: #000003;
+	background-color: #2E955D;
 }
 
 .html
@@ -277,7 +277,7 @@
 
 #pu1792
 {
-	z-index: 72;
+	z-index: 73;
 	width: 0.01px;
 	position: relative;
 	margin-left: -18px;
@@ -305,12 +305,12 @@
 	left: 24px;
 	padding-top: 25px;
 	z-index: 2;
-	padding-bottom: 46px;
+	padding-bottom: 22px;
 }
 
 #u1793
 {
-	z-index: 73;
+	z-index: 74;
 	width: 928px;
 	border-style: none;
 	border-color: transparent;
@@ -321,12 +321,12 @@
 
 #u1794-73
 {
-	z-index: 74;
+	z-index: 75;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
-	line-height: 28px;
-	font-size: 23px;
+	line-height: 22px;
+	font-size: 18px;
 	text-align: justify;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -339,7 +339,7 @@
 	content: '-';
 }
 
-#u1794-3,#u1794-5,#u1794-8,#u1794-11,#u1794-14,#u1794-12,#u1794-19,#u1794-17,#u1794-21,#u1794-23,#u1794-26,#u1794-31,#u1794-36,#u1794-41,#u1794-43,#u1794-45,#u1794-44,#u1794-50,#u1794-51,#u1794-56,#u1794-58,#u1794-60,#u1794-63,#u1794-65,#u1794-67,#u1794-70
+#u1794-3,#u1794-5,#u1794-8,#u1794-11,#u1794-14,#u1794-19,#u1794-21,#u1794-23,#u1794-26,#u1794-31,#u1794-36,#u1794-41,#u1794-43,#u1794-45,#u1794-50,#u1794-51,#u1794-56,#u1794-58,#u1794-60,#u1794-63,#u1794-65,#u1794-67,#u1794-70
 {
 	font-style: normal;
 }
@@ -354,7 +354,7 @@
 	z-index: 36;
 	width: 1160px;
 	left: -100px;
-	margin-top: 293px;
+	margin-top: 461px;
 }
 
 #u1102-3
@@ -426,7 +426,7 @@
 	left: 1px;
 }
 
-#u1104-16
+#u1104-17
 {
 	z-index: 56;
 	margin-right: -10000px;
