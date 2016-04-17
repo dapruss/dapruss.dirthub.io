@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1460498861750">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1460931268454">
   <folder name="assets">
     <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
     <file name="cv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
@@ -25,15 +25,15 @@
     <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:about"/>
   </folder>
   <folder name="images">
     <file name="img_5339.jpg" crc="3944345672" ref="index"/>
     <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
     <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="img_5345.jpg" crc="4182803950" ref="research"/>
+    <file name="img_5345.jpg" crc="4182803950" ref="research:about"/>
     <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research"/>
-    <file name="favicon.ico" crc="3779405195" ref="index"/>
+    <file name="favicon.ico" crc="3779405195" ref="index:about"/>
     <file name="u1484-4.png" crc="14758115" ref="index"/>
     <file name="u1491-4.png" crc="260390181" ref="index"/>
     <file name="u1485-4.png" crc="4197678703" ref="index"/>
@@ -56,7 +56,7 @@
   <file name="index.html" crc="4078154894" seo="true" mt="1460498010599" redirect="true"/>
   <file name="research.html" crc="214104415" seo="true" mt="1460498459220" redirect="true"/>
   <file name="projects.html" crc="301360264" seo="true" mt="1460498459220" redirect="true"/>
-  <file name="about.html" crc="178587378" seo="true" mt="1460498823300" redirect="true"/>
+  <file name="about.html" crc="221170558" seo="true" mt="1460931236030" redirect="true"/>
   <file name="perceptron.html" crc="379090745" seo="true" mt="1460498459220" redirect="true"/>
   <file name="svm.html" crc="129156467" seo="true" mt="1460498459220" redirect="true"/>
   <file name="silly.html" crc="345460309" seo="true" mt="1460498459220" redirect="true"/>
