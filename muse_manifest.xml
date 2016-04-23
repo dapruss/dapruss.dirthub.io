@@ -1,39 +1,52 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1460931268454">
-  <folder name="assets">
-    <file name="dashaprusscv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
-    <file name="cv.pdf" crc="325183310" seo="true" mt="1448251776000"/>
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1461446948715">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="456918574" ref="phone>index:phone>home"/>
+      <file name="master_b-master.css" crc="33655539" ref="phone>about:phone>projects:phone>research"/>
+      <file name="about.css" crc="3762981554" ref="phone>about"/>
+      <file name="projects.css" crc="3813864605" ref="phone>projects"/>
+      <file name="index.css" crc="3838885181" ref="phone>index"/>
+      <file name="home.css" crc="497460858" ref="phone>home"/>
+      <file name="research.css" crc="107412123" ref="phone>research"/>
+    </folder>
+    <file name="index.html" crc="122697126" seo="true" mt="1461440831705" redirect="true"/>
+    <file name="research.html" crc="3885209962" seo="true" mt="1461446793839" redirect="true"/>
+    <file name="about.html" crc="3952244565" seo="true" mt="1461446793839" redirect="true"/>
+    <file name="projects.html" crc="4111123528" seo="true" mt="1461446793839" redirect="true"/>
+    <file name="home.html" crc="4089033720" seo="true" mt="1461440831705" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="282696827"/>
-    <file name="projects.css" crc="53384541" ref="projects"/>
+    <file name="projects.css" crc="3875034885" ref="projects"/>
     <file name="index.css" crc="4042290480" ref="index"/>
     <file name="research.css" crc="154846234" ref="research"/>
-    <file name="master_childpage.css" crc="4007079935" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="master_b-master.css" crc="490959001" ref="index"/>
+    <file name="master_childpage.css" crc="163050101" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
+    <file name="master_b-master.css" crc="4210720329" ref="index"/>
     <file name="about.css" crc="141617266" ref="about"/>
     <file name="perceptron.css" crc="3817503347" ref="perceptron"/>
     <file name="svm.css" crc="4217432073" ref="svm"/>
-    <file name="silly.css" crc="193264356" ref="silly"/>
+    <file name="silly.css" crc="3877600075" ref="silly"/>
     <file name="sherlock.css" crc="273623340" ref="sherlock"/>
     <file name="decision-trees-and-knn.css" crc="3829802493" ref="decision-trees-and-knn"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:about"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>home"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="museredirect.js" crc="3899419633" ref="index:research:projects:about"/>
   </folder>
   <folder name="images">
-    <file name="img_5339.jpg" crc="3944345672" ref="index"/>
-    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn"/>
-    <file name="img_5345.jpg" crc="4182803950" ref="research:about"/>
-    <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research"/>
-    <file name="favicon.ico" crc="3779405195" ref="index:about"/>
+    <file name="img_5339.jpg" crc="4187921669" ref="index"/>
+    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home"/>
+    <file name="img_5345.jpg" crc="63111802" ref="research"/>
+    <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research:phone>research"/>
+    <file name="favicon.ico" crc="3779405195" ref="index"/>
     <file name="u1484-4.png" crc="14758115" ref="index"/>
     <file name="u1491-4.png" crc="260390181" ref="index"/>
     <file name="u1485-4.png" crc="4197678703" ref="index"/>
@@ -52,14 +65,21 @@
     <file name="u1490-17.png" crc="3831224479" ref="index"/>
     <file name="u1104-17.png" crc="3831224479" ref="research:projects:about:decision-trees-and-knn:perceptron:svm:silly:sherlock"/>
     <file name="headshot_recent.jpg" crc="3974827642" seo="true" ref="about"/>
+    <file name="dasha_crop4.jpg" crc="4089465870" ref="phone>index:phone>home"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="phone>index:phone>research"/>
+    <file name="u2549-4.png" crc="14758115" ref="phone>index:phone>home"/>
+    <file name="u2542-4.png" crc="260390181" ref="phone>index:phone>home"/>
+    <file name="dasha_umbrella_crop5.jpg" crc="3853855454" ref="phone>research:phone>about:phone>projects"/>
+    <file name="u3242-4.png" crc="14758115" ref="phone>research:phone>about:phone>projects"/>
+    <file name="u3243-4.png" crc="260390181" ref="phone>research:phone>about:phone>projects"/>
   </folder>
-  <file name="index.html" crc="4078154894" seo="true" mt="1460498010599" redirect="true"/>
-  <file name="research.html" crc="214104415" seo="true" mt="1460498459220" redirect="true"/>
-  <file name="projects.html" crc="301360264" seo="true" mt="1460498459220" redirect="true"/>
-  <file name="about.html" crc="221170558" seo="true" mt="1460931236030" redirect="true"/>
-  <file name="perceptron.html" crc="379090745" seo="true" mt="1460498459220" redirect="true"/>
-  <file name="svm.html" crc="129156467" seo="true" mt="1460498459220" redirect="true"/>
-  <file name="silly.html" crc="345460309" seo="true" mt="1460498459220" redirect="true"/>
-  <file name="sherlock.html" crc="513635063" seo="true" mt="1460498459220" redirect="true"/>
-  <file name="decision-trees-and-knn.html" crc="127689256" seo="true" mt="1460498459220" redirect="true"/>
+  <file name="index.html" crc="3821176597" seo="true" mt="1461438572113" redirect="true"/>
+  <file name="research.html" crc="373621209" seo="true" mt="1461446921722" redirect="true"/>
+  <file name="projects.html" crc="311880723" seo="true" mt="1461446921722" redirect="true"/>
+  <file name="about.html" crc="3828311135" seo="true" mt="1461446921722" redirect="true"/>
+  <file name="perceptron.html" crc="3861894527" seo="true" mt="1461446921722" redirect="true"/>
+  <file name="svm.html" crc="305926912" seo="true" mt="1461446921722" redirect="true"/>
+  <file name="silly.html" crc="294212136" seo="true" mt="1461446921722" redirect="true"/>
+  <file name="sherlock.html" crc="310708532" seo="true" mt="1461446921722" redirect="true"/>
+  <file name="decision-trees-and-knn.html" crc="242354252" seo="true" mt="1461446921722" redirect="true"/>
 </manifest>
