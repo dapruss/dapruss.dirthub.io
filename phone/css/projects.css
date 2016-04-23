@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #00000B;
-	background-color: #7BF993;
+	color: #0000E4;
+	background-color: #55C701;
 }
 
 @-ms-viewport
@@ -39,17 +39,16 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 592px;
+	min-height: 1216px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 }
 
-#pu2672
+#page_position_content,#pu2672
 {
 	width: 0.01px;
-	margin-right: -10000px;
 }
 
 #u2672
@@ -378,11 +377,84 @@
 	line-height: 22px;
 }
 
+#pu3413
+{
+	z-index: 65;
+	width: 0.01px;
+	position: relative;
+	margin-left: 17px;
+	margin-top: 15px;
+}
+
+#u3413
+{
+	z-index: 0;
+	width: 351px;
+	background-color: #FFFFFF;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	border-radius: 16px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu3414
+{
+	width: 0.01px;
+	position: relative;
+	left: 9px;
+	padding-top: 11px;
+	z-index: 2;
+	padding-bottom: 15px;
+}
+
+#u3414
+{
+	z-index: 66;
+	width: 333px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3415-68
+{
+	z-index: 67;
+	width: 333px;
+	min-height: 521px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: justify;
+	font-size: 18px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3415-20 > li:before,#u3415-39 > li:before,#u3415-52 > li:before,#u3415-59 > li:before,#u3415-66 > li:before
+{
+	content: '-';
+}
+
+#u3415-3,#u3415-5,#u3415-8,#u3415-11,#u3415-14,#u3415-19,#u3415-21,#u3415-23,#u3415-26,#u3415-30,#u3415-34,#u3415-38,#u3415-40,#u3415-42,#u3415-45,#u3415-46,#u3415-51,#u3415-53,#u3415-55,#u3415-58,#u3415-60,#u3415-62,#u3415-65
+{
+	font-style: normal;
+}
+
+#u3415-2,#u3415-7,#u3415-10,#u3415-13,#u3415-18,#u3415-25,#u3415-29,#u3415-33,#u3415-37,#u3415-44,#u3415-48,#u3415-50,#u3415-57,#u3415-64
+{
+	font-style: italic;
+}
+
 #pu3239-3
 {
 	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 516px;
+	margin-top: 13px;
 }
 
 #u3239-3,#u3239-3-bw
@@ -439,6 +511,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -516px;
 }
 

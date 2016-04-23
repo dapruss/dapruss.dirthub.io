@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000008;
-	background-color: #6387BC;
+	color: #00001F;
+	background-color: #724F9D;
 }
 
 @-ms-viewport
@@ -39,17 +39,12 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 592px;
+	min-height: 591.9307692307698px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-}
-
-#pu2672
-{
-	width: 0.01px;
-	margin-right: -10000px;
+	padding-bottom: 0px;
 }
 
 #u2672
@@ -378,11 +373,220 @@
 	line-height: 22px;
 }
 
-#pu3239-3
+#ppu3416
 {
 	width: 0.01px;
+	margin-left: 12px;
+	margin-top: 15px;
+}
+
+#pu3416
+{
+	z-index: 65;
+	width: 0.01px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 516px;
+}
+
+#u3416
+{
+	z-index: 0;
+	width: 357px;
+	background-color: #FFFFFF;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	border-radius: 16px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu3433
+{
+	width: 0.01px;
+	position: relative;
+	left: 82px;
+	padding-top: 16px;
+	z-index: 2;
+	padding-bottom: 935px;
+}
+
+#u3433
+{
+	z-index: 120;
+	width: 187px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3417
+{
+	z-index: 66;
+	width: 339px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 338px;
+	left: 9px;
+}
+
+#u3419
+{
+	z-index: 67;
+	width: 339px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3420-44
+{
+	z-index: 68;
+	width: 339px;
+	min-height: 506px;
+	background-color: transparent;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3420-7
+{
+	font-size: 15px;
+	text-align: justify;
+	line-height: 18px;
+	color: #FFFFFF;
+}
+
+#u3420-9
+{
+	font-size: 15px;
+	text-align: justify;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3420-8
+{
+	font-size: 17px;
+	line-height: 20px;
+}
+
+#u3420-11,#u3420-15
+{
+	font-size: 17px;
+	text-align: justify;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+#u3420-20
+{
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+}
+
+#u3420-16,#u3420-17,#u3420-19
+{
+	font-weight: 700;
+}
+
+#u3420-22
+{
+	font-size: 8px;
+	text-align: justify;
+	line-height: 10px;
+	color: #FFFFFF;
+}
+
+#u3420-25
+{
+	font-size: 23px;
+	text-align: justify;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3421
+{
+	float: right;
+	margin: 3px 10px 17px 24px;
+}
+
+#u3422
+{
+	z-index: 95;
+	width: 329px;
+	background-color: transparent;
+}
+
+#u3420-24
+{
+	font-size: 4px;
+	color: #FFFFFF;
+	line-height: 5px;
+}
+
+#u3420-26
+{
+	font-size: 1px;
+	line-height: 0px;
+}
+
+#u3437
+{
+	margin-top: -16px;
+	margin-bottom: 16px;
+}
+
+#u3436-4
+{
+	z-index: 102;
+	width: 320px;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+}
+
+#u3420-31
+{
+	color: #FFFFFF;
+}
+
+#u3420-5,#u3420-13,#u3420-29,#u3420-32,#u3420-40
+{
+	font-size: 17px;
+	text-align: justify;
+	line-height: 20px;
+}
+
+#u3420-41
+{
+	font-size: 23px;
+	text-align: justify;
+	line-height: 28px;
+}
+
+#u3420-42
+{
+	font-size: 23px;
+	text-align: justify;
+	line-height: 28px;
+	font-style: normal;
+}
+
+#page_position_content,#pu2672,#pu3239-3
+{
+	width: 0.01px;
 }
 
 #u3239-3,#u3239-3-bw
@@ -439,6 +643,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -516px;
 }
 
