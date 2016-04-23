@@ -1,19 +1,19 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1461446948715">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1461447350890">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="456918574" ref="phone>index:phone>home"/>
       <file name="master_b-master.css" crc="33655539" ref="phone>about:phone>projects:phone>research"/>
-      <file name="about.css" crc="3762981554" ref="phone>about"/>
-      <file name="projects.css" crc="3813864605" ref="phone>projects"/>
-      <file name="index.css" crc="3838885181" ref="phone>index"/>
-      <file name="home.css" crc="497460858" ref="phone>home"/>
+      <file name="about.css" crc="140740540" ref="phone>about"/>
+      <file name="projects.css" crc="192674195" ref="phone>projects"/>
+      <file name="index.css" crc="193238278" ref="phone>index"/>
+      <file name="home.css" crc="4075982401" ref="phone>home"/>
       <file name="research.css" crc="107412123" ref="phone>research"/>
     </folder>
-    <file name="index.html" crc="122697126" seo="true" mt="1461440831705" redirect="true"/>
-    <file name="research.html" crc="3885209962" seo="true" mt="1461446793839" redirect="true"/>
-    <file name="about.html" crc="3952244565" seo="true" mt="1461446793839" redirect="true"/>
-    <file name="projects.html" crc="4111123528" seo="true" mt="1461446793839" redirect="true"/>
-    <file name="home.html" crc="4089033720" seo="true" mt="1461440831705" redirect="true"/>
+    <file name="index.html" crc="4004846854" seo="true" mt="1461447245913" redirect="true"/>
+    <file name="research.html" crc="3878867850" seo="true" mt="1461447321502" redirect="true"/>
+    <file name="about.html" crc="428122074" seo="true" mt="1461447312033" redirect="true"/>
+    <file name="projects.html" crc="384374741" seo="true" mt="1461447312033" redirect="true"/>
+    <file name="home.html" crc="3805747825" seo="true" mt="1461447245913" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="282696827"/>
@@ -67,7 +67,7 @@
     <file name="headshot_recent.jpg" crc="3974827642" seo="true" ref="about"/>
     <file name="dasha_crop4.jpg" crc="4089465870" ref="phone>index:phone>home"/>
     <file name="arrowmenuright.gif" crc="36340589" ref="phone>index:phone>research"/>
-    <file name="u2549-4.png" crc="14758115" ref="phone>index:phone>home"/>
+    <file name="u2549-4.png" crc="476018470" ref="phone>index:phone>home"/>
     <file name="u2542-4.png" crc="260390181" ref="phone>index:phone>home"/>
     <file name="dasha_umbrella_crop5.jpg" crc="3853855454" ref="phone>research:phone>about:phone>projects"/>
     <file name="u3242-4.png" crc="14758115" ref="phone>research:phone>about:phone>projects"/>

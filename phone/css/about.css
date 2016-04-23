@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000E0;
-	background-color: #4A8AB2;
+	color: #000008;
+	background-color: #6387BC;
 }
 
 @-ms-viewport
@@ -31,7 +31,7 @@
 
 .html
 {
-	background: #FFFFFF url("../../images/dasha_umbrella_crop5.jpg") no-repeat center top;
+	background: #FFFFFF url("../../images/dasha_umbrella_crop5.jpg") no-repeat center top fixed;
 	background-size: contain;
 }
 
