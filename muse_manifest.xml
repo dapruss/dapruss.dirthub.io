@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1461447350890">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1461447499452">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="456918574" ref="phone>index:phone>home"/>
@@ -10,7 +10,7 @@
       <file name="research.css" crc="107412123" ref="phone>research"/>
     </folder>
     <file name="index.html" crc="4004846854" seo="true" mt="1461447245913" redirect="true"/>
-    <file name="research.html" crc="3878867850" seo="true" mt="1461447321502" redirect="true"/>
+    <file name="research.html" crc="3760106869" seo="true" mt="1461447479766" redirect="true"/>
     <file name="about.html" crc="428122074" seo="true" mt="1461447312033" redirect="true"/>
     <file name="projects.html" crc="384374741" seo="true" mt="1461447312033" redirect="true"/>
     <file name="home.html" crc="3805747825" seo="true" mt="1461447245913" redirect="true"/>
