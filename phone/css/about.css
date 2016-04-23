@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000EB;
-	background-color: #88ABA9;
+	color: #0000EE;
+	background-color: #F9B186;
 }
 
 @-ms-viewport
@@ -39,11 +39,16 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1460px;
+	min-height: 1497px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+}
+
+#page_position_content,#pu2672
+{
+	width: 0.01px;
 }
 
 #u2672
@@ -372,13 +377,19 @@
 	line-height: 22px;
 }
 
+#ppu3416
+{
+	width: 0.01px;
+	margin-left: 12px;
+	margin-top: 15px;
+}
+
 #pu3416
 {
 	z-index: 65;
 	width: 0.01px;
 	position: relative;
-	margin-left: 12px;
-	margin-top: 15px;
+	margin-right: -10000px;
 }
 
 #u3416
@@ -398,11 +409,11 @@
 #pu3433
 {
 	width: 0.01px;
-	padding-bottom: 15.930769230770238px;
 	position: relative;
-	left: 17px;
+	left: 82px;
 	padding-top: 16px;
 	z-index: 2;
+	padding-bottom: 988px;
 }
 
 #u3433
@@ -410,8 +421,8 @@
 	z-index: 121;
 	width: 187px;
 	background-color: transparent;
-	margin-left: 65px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u3417
@@ -421,8 +432,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 12px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 338px;
+	left: 17px;
 }
 
 #u3419
@@ -581,9 +594,10 @@
 	font-style: normal;
 }
 
-#page_position_content,#pu2672,#pu3239-3
+#pu3239-3
 {
 	width: 0.01px;
+	margin-top: 18px;
 }
 
 #u3239-3,#u3239-3-bw
