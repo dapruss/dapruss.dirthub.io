@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1461447622079">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1461447767048">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="456918574" ref="phone>index:phone>home"/>
       <file name="master_b-master.css" crc="33655539" ref="phone>about:phone>projects:phone>research"/>
-      <file name="about.css" crc="140740540" ref="phone>about"/>
-      <file name="projects.css" crc="192674195" ref="phone>projects"/>
+      <file name="about.css" crc="208405568" ref="phone>about"/>
+      <file name="projects.css" crc="259291759" ref="phone>projects"/>
       <file name="index.css" crc="193238278" ref="phone>index"/>
       <file name="home.css" crc="4075982401" ref="phone>home"/>
-      <file name="research.css" crc="107412123" ref="phone>research"/>
+      <file name="research.css" crc="3925140049" ref="phone>research"/>
     </folder>
     <file name="index.html" crc="4004846854" seo="true" mt="1461447245913" redirect="true"/>
-    <file name="research.html" crc="240091080" seo="true" mt="1461447606933" redirect="true"/>
-    <file name="about.html" crc="428122074" seo="true" mt="1461447312033" redirect="true"/>
-    <file name="projects.html" crc="384374741" seo="true" mt="1461447312033" redirect="true"/>
+    <file name="research.html" crc="4135648408" seo="true" mt="1461447743730" redirect="true"/>
+    <file name="about.html" crc="199418590" seo="true" mt="1461447743730" redirect="true"/>
+    <file name="projects.html" crc="56110803" seo="true" mt="1461447743730" redirect="true"/>
     <file name="home.html" crc="3805747825" seo="true" mt="1461447245913" redirect="true"/>
   </folder>
   <folder name="css">
