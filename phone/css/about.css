@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #00001F;
-	background-color: #724F9D;
+	color: #0000FA;
+	background-color: #D6500B;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 591.9307692307698px;
+	min-height: 1459.9307692307702px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -409,12 +409,12 @@
 	left: 82px;
 	padding-top: 16px;
 	z-index: 2;
-	padding-bottom: 935px;
+	padding-bottom: 957px;
 }
 
 #u3433
 {
-	z-index: 120;
+	z-index: 121;
 	width: 187px;
 	background-color: transparent;
 	position: relative;
@@ -424,20 +424,20 @@
 #u3417
 {
 	z-index: 66;
-	width: 339px;
+	width: 322px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 338px;
-	left: 9px;
+	left: 17px;
 }
 
 #u3419
 {
 	z-index: 67;
-	width: 339px;
+	width: 322px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -445,11 +445,11 @@
 	margin-right: -10000px;
 }
 
-#u3420-44
+#u3420-45
 {
 	z-index: 68;
-	width: 339px;
-	min-height: 506px;
+	width: 322px;
+	min-height: 932px;
 	background-color: transparent;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -506,7 +506,7 @@
 	color: #FFFFFF;
 }
 
-#u3420-25
+#u3420-26
 {
 	font-size: 23px;
 	text-align: justify;
@@ -515,25 +515,31 @@
 
 #u3421
 {
-	float: right;
-	margin: 3px 10px 17px 24px;
+	margin-top: 3px;
+	margin-bottom: 17px;
+	margin-right: 10px;
 }
 
 #u3422
 {
-	z-index: 95;
-	width: 329px;
+	z-index: 96;
+	width: 321px;
 	background-color: transparent;
 }
 
-#u3420-24
+#u3422_img
+{
+	vertical-align: bottom;
+}
+
+#u3420-25
 {
 	font-size: 4px;
 	color: #FFFFFF;
 	line-height: 5px;
 }
 
-#u3420-26
+#u3420-23,#u3420-27
 {
 	font-size: 1px;
 	line-height: 0px;
@@ -547,7 +553,7 @@
 
 #u3436-4
 {
-	z-index: 102;
+	z-index: 103;
 	width: 320px;
 	min-height: 46px;
 	background-color: transparent;
@@ -557,26 +563,26 @@
 	font-weight: 400;
 }
 
-#u3420-31
+#u3420-32
 {
 	color: #FFFFFF;
 }
 
-#u3420-5,#u3420-13,#u3420-29,#u3420-32,#u3420-40
+#u3420-5,#u3420-13,#u3420-30,#u3420-33,#u3420-41
 {
 	font-size: 17px;
 	text-align: justify;
 	line-height: 20px;
 }
 
-#u3420-41
+#u3420-42
 {
 	font-size: 23px;
 	text-align: justify;
 	line-height: 28px;
 }
 
-#u3420-42
+#u3420-43
 {
 	font-size: 23px;
 	text-align: justify;

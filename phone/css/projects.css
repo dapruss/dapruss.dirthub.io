@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000E4;
-	background-color: #55C701;
+	color: #0000F1;
+	background-color: #03FC9E;
 }
 
 @-ms-viewport
@@ -404,16 +404,16 @@
 {
 	width: 0.01px;
 	position: relative;
-	left: 9px;
+	left: 22px;
 	padding-top: 11px;
 	z-index: 2;
-	padding-bottom: 15px;
+	padding-bottom: 22px;
 }
 
 #u3414
 {
 	z-index: 66;
-	width: 333px;
+	width: 310px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -424,7 +424,7 @@
 #u3415-68
 {
 	z-index: 67;
-	width: 333px;
+	width: 310px;
 	min-height: 521px;
 	background-color: transparent;
 	line-height: 22px;
@@ -454,7 +454,7 @@
 #pu3239-3
 {
 	width: 0.01px;
-	margin-top: 13px;
+	margin-top: 6px;
 }
 
 #u3239-3,#u3239-3-bw
