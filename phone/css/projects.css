@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000F1;
-	background-color: #03FC9E;
+	color: #0000E9;
+	background-color: #0FDEFF;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1216px;
+	min-height: 1245px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -421,14 +421,14 @@
 	margin-right: -10000px;
 }
 
-#u3415-68
+#u3415-76
 {
 	z-index: 67;
 	width: 310px;
 	min-height: 521px;
 	background-color: transparent;
 	line-height: 22px;
-	text-align: justify;
+	text-align: left;
 	font-size: 18px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -436,17 +436,17 @@
 	margin-right: -10000px;
 }
 
-#u3415-20 > li:before,#u3415-39 > li:before,#u3415-52 > li:before,#u3415-59 > li:before,#u3415-66 > li:before
-{
-	content: '-';
-}
-
-#u3415-3,#u3415-5,#u3415-8,#u3415-11,#u3415-14,#u3415-19,#u3415-21,#u3415-23,#u3415-26,#u3415-30,#u3415-34,#u3415-38,#u3415-40,#u3415-42,#u3415-45,#u3415-46,#u3415-51,#u3415-53,#u3415-55,#u3415-58,#u3415-60,#u3415-62,#u3415-65
+#u3415-54
 {
 	font-style: normal;
 }
 
-#u3415-2,#u3415-7,#u3415-10,#u3415-13,#u3415-18,#u3415-25,#u3415-29,#u3415-33,#u3415-37,#u3415-44,#u3415-48,#u3415-50,#u3415-57,#u3415-64
+#u3415-24 > li:before,#u3415-47 > li:before,#u3415-60 > li:before,#u3415-67 > li:before,#u3415-74 > li:before
+{
+	content: '-';
+}
+
+#u3415-2,#u3415-8,#u3415-12,#u3415-16,#u3415-22,#u3415-30,#u3415-35,#u3415-40,#u3415-45,#u3415-52,#u3415-56,#u3415-58,#u3415-65,#u3415-72
 {
 	font-style: italic;
 }
@@ -454,7 +454,7 @@
 #pu3239-3
 {
 	width: 0.01px;
-	margin-top: 6px;
+	margin-top: 13px;
 }
 
 #u3239-3,#u3239-3-bw
