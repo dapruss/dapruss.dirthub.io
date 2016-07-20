@@ -74,16 +74,9 @@
 	font-style: normal;
 }
 
-#u2606
+#u2603.MuseMenuActive,#u2601
 {
-	position: relative;
-	background: transparent url("../../images/arrowmenuright.gif") no-repeat center center;
-}
-
-#u2603:hover #u2606
-{
-	background-repeat: no-repeat;
-	background-position: center center;
+	background-color: transparent;
 }
 
 #u2602
@@ -181,6 +174,11 @@
 	position: relative;
 }
 
+#u3355.MuseMenuActive,#u2949.MuseMenuActive,#u2958.MuseMenuActive,#u2963.MuseMenuActive
+{
+	background-color: #666666;
+}
+
 #u2964-4
 {
 	background-color: transparent;
@@ -201,51 +199,6 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
-}
-
-#u2966
-{
-	position: relative;
-	background: #999999 url("../../images/arrowmenuright.gif") no-repeat center center;
-}
-
-#u2603.MuseMenuActive #u2606,#u2963.MuseMenuActive #u2966
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-}
-
-#u2603.MuseMenuActive,#u2601,#u2967
-{
-	background-color: transparent;
-}
-
-#u3628
-{
-	border-width: 1px;
-	border-style: solid;
-	border-color: #777777;
-	background-color: #FFFFFF;
-	position: relative;
-}
-
-#u3628:hover
-{
-	background-color: #AAAAAA;
-}
-
-#u3355.MuseMenuActive,#u2949.MuseMenuActive,#u2958.MuseMenuActive,#u2963.MuseMenuActive,#u3628.MuseMenuActive
-{
-	background-color: #666666;
-}
-
-#u3630-4
-{
-	background-color: transparent;
-	font-size: 11px;
-	text-align: center;
-	line-height: 13px;
-	position: relative;
 }
 
 .MenuItem /* unifiedNavBar */
@@ -272,7 +225,7 @@
 	position: relative;
 }
 
-#u2600,#u3354,#u2948,#u2955,#u2962,#u2968,#u3627,#u2547,#u2543
+#u2600,#u3354,#u2948,#u2955,#u2962,#u2547,#u2543
 {
 	background-color: transparent;
 	position: relative;

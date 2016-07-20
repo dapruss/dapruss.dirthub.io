@@ -1,21 +1,21 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1468980081992">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1468980524915">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3783165290" ref="phone>index:phone>home"/>
-      <file name="master_b-master.css" crc="131955078" ref="phone>about:phone>projects:phone>research:phone>what-i-m-reading"/>
-      <file name="about.css" crc="4081821950" ref="phone>about"/>
-      <file name="projects.css" crc="145847837" ref="phone>projects"/>
-      <file name="index.css" crc="3958314378" ref="phone>index"/>
-      <file name="home.css" crc="312020685" ref="phone>home"/>
-      <file name="research.css" crc="3871637087" ref="phone>research"/>
-      <file name="what-i-m-reading.css" crc="238809347" ref="phone>what-i-m-reading"/>
+      <file name="master_a-master.css" crc="51004762" ref="phone>index:phone>home"/>
+      <file name="master_b-master.css" crc="4233878925" ref="phone>about:phone>projects:phone>research:phone>what-i-m-reading"/>
+      <file name="about.css" crc="492582698" ref="phone>about"/>
+      <file name="projects.css" crc="70056762" ref="phone>projects"/>
+      <file name="index.css" crc="38491768" ref="phone>index"/>
+      <file name="home.css" crc="4215098687" ref="phone>home"/>
+      <file name="research.css" crc="3812814280" ref="phone>research"/>
+      <file name="what-i-m-reading.css" crc="525081793" ref="phone>what-i-m-reading"/>
     </folder>
-    <file name="index.html" crc="4052216954" seo="true" mt="1468979796639" redirect="true"/>
-    <file name="research.html" crc="3910024117" seo="true" mt="1468979796745" redirect="true"/>
-    <file name="about.html" crc="4254014258" seo="true" mt="1468980017895" redirect="true"/>
-    <file name="projects.html" crc="3882354743" seo="true" mt="1468980057117" redirect="true"/>
-    <file name="home.html" crc="4046910539" seo="true" mt="1468979796639" redirect="true"/>
-    <file name="what-i-m-reading.html" crc="4099408509" seo="true" mt="1468979936875" redirect="true"/>
+    <file name="index.html" crc="4252339806" seo="true" mt="1468980460269" redirect="true"/>
+    <file name="research.html" crc="322664414" seo="true" mt="1468980460306" redirect="true"/>
+    <file name="about.html" crc="3918680163" seo="true" mt="1468980460306" redirect="true"/>
+    <file name="projects.html" crc="506622378" seo="true" mt="1468980460306" redirect="true"/>
+    <file name="home.html" crc="3895091204" seo="true" mt="1468980460269" redirect="true"/>
+    <file name="what-i-m-reading.html" crc="4263423858" seo="true" mt="1468980478471" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="282696827"/>
@@ -69,7 +69,7 @@
     <file name="u1490-17.png" crc="3831224479" ref="index"/>
     <file name="u1104-17.png" crc="3831224479" ref="research:projects:about:decision-trees-and-knn:perceptron:svm:silly:sherlock:undergraduate-thesis:what-i-m-reading"/>
     <file name="dasha_crop4.jpg" crc="4089465870" ref="phone>index:phone>home"/>
-    <file name="arrowmenuright.gif" crc="36340589" ref="phone>index:phone>research"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="phone>research"/>
     <file name="u2549-4.png" crc="476018470" ref="phone>index:phone>home"/>
     <file name="u2542-4.png" crc="260390181" ref="phone>index:phone>home"/>
     <file name="dasha_umbrella_crop5.jpg" crc="3853855454" ref="phone>research:phone>about:phone>projects:phone>what-i-m-reading"/>
