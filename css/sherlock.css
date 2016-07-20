@@ -1,7 +1,7 @@
 .version.sherlock /* version checker */
 {
-	color: #0000F7;
-	background-color: #28BD72;
+	color: #000006;
+	background-color: #74D123;
 }
 
 .html
@@ -293,7 +293,7 @@
 
 #u2381
 {
-	z-index: 73;
+	z-index: 72;
 	width: 978px;
 	background-color: #FFFFFF;
 	border-radius: 16px;
@@ -304,7 +304,7 @@
 
 #u2370
 {
-	z-index: 74;
+	z-index: 73;
 	width: 928px;
 	border-style: none;
 	border-color: transparent;
@@ -318,7 +318,7 @@
 
 #u2371-30
 {
-	z-index: 75;
+	z-index: 74;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
@@ -348,7 +348,7 @@
 
 #u2400
 {
-	z-index: 86;
+	z-index: 85;
 	width: 327px;
 	background-color: transparent;
 }
@@ -396,7 +396,7 @@
 
 #u2420-8
 {
-	z-index: 108;
+	z-index: 107;
 	width: 325px;
 	min-height: 35px;
 	background-color: transparent;
@@ -482,7 +482,7 @@
 	left: 1px;
 }
 
-#u1104-17
+#u1104-16
 {
 	z-index: 56;
 	margin-right: -10000px;

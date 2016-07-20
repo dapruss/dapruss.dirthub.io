@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #0000FF;
-	background-color: #33B25B;
+	color: #0000FC;
+	background-color: #A1BD30;
 }
 
 .html
@@ -293,7 +293,7 @@
 
 #pu1792
 {
-	z-index: 73;
+	z-index: 72;
 	width: 0.01px;
 	position: relative;
 	margin-left: -18px;
@@ -326,7 +326,7 @@
 
 #u1793
 {
-	z-index: 74;
+	z-index: 73;
 	width: 928px;
 	border-style: none;
 	border-color: transparent;
@@ -337,7 +337,7 @@
 
 #u1794-60
 {
-	z-index: 75;
+	z-index: 74;
 	width: 928px;
 	min-height: 418px;
 	background-color: transparent;
@@ -442,7 +442,7 @@
 	left: 1px;
 }
 
-#u1104-17
+#u1104-16
 {
 	z-index: 56;
 	margin-right: -10000px;

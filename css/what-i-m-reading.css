@@ -1,7 +1,7 @@
 .version.what_i_m_reading /* version checker */
 {
-	color: #00001C;
-	background-color: #CDC976;
+	color: #0000F9;
+	background-color: #877032;
 }
 
 .html
@@ -293,7 +293,7 @@
 
 #pu3505
 {
-	z-index: 73;
+	z-index: 72;
 	width: 0.01px;
 	position: relative;
 	margin-left: -20px;
@@ -326,7 +326,7 @@
 
 #u3506
 {
-	z-index: 74;
+	z-index: 73;
 	width: 928px;
 	border-style: none;
 	border-color: transparent;
@@ -337,7 +337,7 @@
 
 #u3507-79
 {
-	z-index: 75;
+	z-index: 74;
 	width: 928px;
 	min-height: 521px;
 	background-color: transparent;
@@ -444,7 +444,7 @@
 	left: 1px;
 }
 
-#u1104-17
+#u1104-16
 {
 	z-index: 56;
 	margin-right: -10000px;

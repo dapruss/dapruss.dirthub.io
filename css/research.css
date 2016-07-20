@@ -1,7 +1,7 @@
 .version.research /* version checker */
 {
-	color: #000016;
-	background-color: #4E7870;
+	color: #0000F6;
+	background-color: #5516CE;
 }
 
 .html
@@ -22,6 +22,13 @@
 	margin-right: auto;
 }
 
+#page_position_content
+{
+	margin-top: -64px;
+	margin-bottom: -1px;
+	width: 0.01px;
+}
+
 #u1609
 {
 	z-index: 2;
@@ -31,19 +38,11 @@
 	left: -100px;
 }
 
-#pu1062
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: -64px;
-	margin-left: -100px;
-}
-
 #u1062
 {
 	z-index: 3;
 	width: 1160px;
+	left: -100px;
 }
 
 #u1063-3
@@ -295,13 +294,13 @@
 #ppu1715
 {
 	width: 0.01px;
-	margin-left: 80px;
+	margin-left: -20px;
 	margin-top: 25px;
 }
 
 #pu1715
 {
-	z-index: 73;
+	z-index: 72;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -328,12 +327,12 @@
 	left: 26px;
 	padding-top: 25px;
 	z-index: 2;
-	padding-bottom: 29px;
+	padding-bottom: 49px;
 }
 
 #u1716
 {
-	z-index: 74;
+	z-index: 73;
 	width: 928px;
 	border-style: none;
 	border-color: transparent;
@@ -344,7 +343,7 @@
 
 #u1717-34
 {
-	z-index: 75;
+	z-index: 74;
 	width: 928px;
 	min-height: 509px;
 	background-color: transparent;
@@ -372,7 +371,7 @@
 
 #u3520
 {
-	z-index: 88;
+	z-index: 87;
 	width: 296px;
 	border-style: none;
 	border-color: transparent;
@@ -381,7 +380,7 @@
 
 #u3521
 {
-	z-index: 89;
+	z-index: 88;
 	width: 296px;
 	background-color: transparent;
 	position: relative;
@@ -390,7 +389,7 @@
 
 #u3523-7
 {
-	z-index: 91;
+	z-index: 90;
 	width: 284px;
 	min-height: 40px;
 	background-color: transparent;
@@ -441,7 +440,7 @@
 
 #u2474-3
 {
-	z-index: 120;
+	z-index: 119;
 	width: 3px;
 	min-height: 35px;
 	background-color: transparent;
@@ -451,26 +450,12 @@
 	left: 1035px;
 }
 
-#u3539-3
-{
-	z-index: 123;
-	width: 4px;
-	min-height: 70px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 402px;
-	left: 1129px;
-}
-
 #u1095
 {
 	z-index: 36;
 	width: 1160px;
-	margin-bottom: -1px;
-	margin-right: -10000px;
-	margin-top: 1196px;
 	left: -100px;
+	margin-top: 194px;
 }
 
 #u1102-3
@@ -542,7 +527,7 @@
 	left: 1px;
 }
 
-#u1104-17
+#u1104-16
 {
 	z-index: 56;
 	margin-right: -10000px;
@@ -560,6 +545,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -1196px;
 }
 

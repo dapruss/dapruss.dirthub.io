@@ -1,62 +1,61 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1468980919286">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1469039109166">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="51004762" ref="phone>index:phone>home"/>
       <file name="master_b-master.css" crc="130310889" ref="phone>about:phone>projects:phone>research:phone>what-i-m-reading"/>
       <file name="about.css" crc="176325903" ref="phone>about"/>
       <file name="projects.css" crc="498282081" ref="phone>projects"/>
-      <file name="index.css" crc="146251661" ref="phone>index"/>
-      <file name="home.css" crc="4055991498" ref="phone>home"/>
+      <file name="index.css" crc="3798297069" ref="phone>index"/>
+      <file name="home.css" crc="454259370" ref="phone>home"/>
       <file name="research.css" crc="19307841" ref="phone>research"/>
       <file name="what-i-m-reading.css" crc="112030584" ref="phone>what-i-m-reading"/>
     </folder>
-    <file name="index.html" crc="214308888" seo="true" mt="1468980785731" redirect="true"/>
-    <file name="research.html" crc="3770994132" seo="true" mt="1468980769065" redirect="true"/>
-    <file name="about.html" crc="3765391753" seo="true" mt="1468980910606" redirect="true"/>
-    <file name="projects.html" crc="4237705702" seo="true" mt="1468980769065" redirect="true"/>
-    <file name="home.html" crc="4209704992" seo="true" mt="1468980785731" redirect="true"/>
-    <file name="what-i-m-reading.html" crc="293379677" seo="true" mt="1468980769065" redirect="true"/>
+    <file name="index.html" crc="502671557" seo="true" mt="1469038995868" redirect="true"/>
+    <file name="research.html" crc="425597850" seo="true" mt="1469039011452" redirect="true"/>
+    <file name="about.html" crc="245003137" seo="true" mt="1469039011452" redirect="true"/>
+    <file name="projects.html" crc="3758486816" seo="true" mt="1469039011452" redirect="true"/>
+    <file name="home.html" crc="392948781" seo="true" mt="1469038995868" redirect="true"/>
+    <file name="what-i-m-reading.html" crc="3978493293" seo="true" mt="1469039011452" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="282696827"/>
-    <file name="projects.css" crc="4281578075" ref="projects"/>
+    <file name="projects.css" crc="4238458160" ref="projects"/>
     <file name="index.css" crc="342808501" ref="index"/>
-    <file name="research.css" crc="374241392" ref="research"/>
-    <file name="master_childpage.css" crc="4223102777" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:what-i-m-reading:undergraduate-thesis"/>
+    <file name="research.css" crc="4132771534" ref="research"/>
+    <file name="master_childpage.css" crc="3985836948" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:what-i-m-reading"/>
     <file name="master_b-master.css" crc="348543831" ref="index"/>
-    <file name="about.css" crc="352561389" ref="about"/>
-    <file name="perceptron.css" crc="43616883" ref="perceptron"/>
-    <file name="svm.css" crc="4046021414" ref="svm"/>
-    <file name="silly.css" crc="147988397" ref="silly"/>
-    <file name="sherlock.css" crc="4146642290" ref="sherlock"/>
-    <file name="decision-trees-and-knn.css" crc="3954249672" ref="decision-trees-and-knn"/>
-    <file name="what-i-m-reading.css" crc="483248502" ref="what-i-m-reading"/>
-    <file name="undergraduate-thesis.css" crc="3846563525" ref="undergraduate-thesis"/>
+    <file name="about.css" crc="4068631442" ref="about"/>
+    <file name="perceptron.css" crc="258041527" ref="perceptron"/>
+    <file name="svm.css" crc="335342873" ref="svm"/>
+    <file name="silly.css" crc="385787686" ref="silly"/>
+    <file name="sherlock.css" crc="108319011" ref="sherlock"/>
+    <file name="decision-trees-and-knn.css" crc="412411680" ref="decision-trees-and-knn"/>
+    <file name="what-i-m-reading.css" crc="4186402866" ref="what-i-m-reading"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
-    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
-    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>home:phone>about:phone>projects:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
+    <file name="museutils.js" crc="275725342" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
+    <file name="pie.js" crc="3827607177" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>home:phone>about:phone>projects:phone>what-i-m-reading:what-i-m-reading"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading"/>
     <file name="museredirect.js" crc="3899419633" ref="index:research:projects:about:what-i-m-reading"/>
   </folder>
   <folder name="images">
     <file name="img_5339.jpg" crc="4187921669" ref="index"/>
-    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
-    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:undergraduate-thesis:what-i-m-reading"/>
+    <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
+    <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
     <file name="img_5345.jpg" crc="63111802" ref="research"/>
-    <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research:phone>research:undergraduate-thesis"/>
+    <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research:phone>research"/>
     <file name="favicon.ico" crc="3779405195" ref="index"/>
-    <file name="u1484-4.png" crc="14758115" ref="index"/>
+    <file name="u1484-4.png" crc="3872592125" ref="index"/>
     <file name="u1491-4.png" crc="260390181" ref="index"/>
     <file name="u1485-4.png" crc="4197678703" ref="index"/>
-    <file name="u1099-4.png" crc="14758115" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:undergraduate-thesis:what-i-m-reading"/>
-    <file name="u1096-4.png" crc="260390181" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:undergraduate-thesis:what-i-m-reading"/>
-    <file name="u1103-4.png" crc="4197678703" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:undergraduate-thesis:what-i-m-reading"/>
+    <file name="u1099-4.png" crc="3872592125" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:what-i-m-reading"/>
+    <file name="u1096-4.png" crc="260390181" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:what-i-m-reading"/>
+    <file name="u1103-4.png" crc="4197678703" ref="research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:what-i-m-reading"/>
     <file name="img_3717.jpg" crc="501202633" seo="true" ref="about:phone>about"/>
     <file name="update.jpg" crc="12290700" seo="true" ref="perceptron"/>
     <file name="perceptron.jpg" crc="4277614404" seo="true" ref="perceptron"/>
@@ -66,25 +65,24 @@
     <file name="sgd_formula.jpg" crc="4210949930" seo="true" ref="svm"/>
     <file name="dasha_pruss_food_classifier.jpg" crc="3853327620" seo="true" ref="silly"/>
     <file name="sherlock.jpg" crc="4048076510" seo="true" ref="sherlock"/>
-    <file name="u1490-17.png" crc="3831224479" ref="index"/>
-    <file name="u1104-17.png" crc="3831224479" ref="research:projects:about:decision-trees-and-knn:perceptron:svm:silly:sherlock:undergraduate-thesis:what-i-m-reading"/>
+    <file name="u1490-17.png" crc="3892216250" ref="index"/>
     <file name="dasha_crop4.jpg" crc="4089465870" ref="phone>index:phone>home"/>
-    <file name="u2549-4.png" crc="476018470" ref="phone>index:phone>home"/>
+    <file name="u2549-4.png" crc="4107252115" ref="phone>index:phone>home"/>
     <file name="u2542-4.png" crc="260390181" ref="phone>index:phone>home"/>
     <file name="dasha_umbrella_crop5.jpg" crc="3853855454" ref="phone>research:phone>about:phone>projects:phone>what-i-m-reading"/>
-    <file name="u3242-4.png" crc="14758115" ref="phone>research:phone>about:phone>projects:phone>what-i-m-reading"/>
+    <file name="u3242-4.png" crc="3872592125" ref="phone>research:phone>about:phone>projects:phone>what-i-m-reading"/>
     <file name="u3243-4.png" crc="260390181" ref="phone>research:phone>about:phone>projects:phone>what-i-m-reading"/>
     <file name="headshot_website.jpg" crc="350012053" seo="true" ref="about:phone>about"/>
+    <file name="u1104-16.png" crc="364221970" ref="research:projects:about:decision-trees-and-knn:perceptron:svm:silly:sherlock:what-i-m-reading"/>
   </folder>
-  <file name="index.html" crc="4181798751" seo="true" mt="1468978670742" redirect="true"/>
-  <file name="research.html" crc="4177120813" seo="true" mt="1468979284049" redirect="true"/>
-  <file name="projects.html" crc="486674882" seo="true" mt="1468978578847" redirect="true"/>
-  <file name="about.html" crc="3889312504" seo="true" mt="1468978692413" redirect="true"/>
-  <file name="perceptron.html" crc="41846156" seo="true" mt="1468520198321" redirect="true"/>
-  <file name="svm.html" crc="105255827" seo="true" mt="1468520198321" redirect="true"/>
-  <file name="silly.html" crc="217023478" seo="true" mt="1468520198321" redirect="true"/>
-  <file name="sherlock.html" crc="536400829" seo="true" mt="1468520198321" redirect="true"/>
-  <file name="decision-trees-and-knn.html" crc="4068160694" seo="true" mt="1468520198321" redirect="true"/>
-  <file name="undergraduate-thesis.html" crc="3915321359" seo="true" mt="1468965863553" redirect="true"/>
-  <file name="what-i-m-reading.html" crc="34123447" seo="true" mt="1468979793509" redirect="true"/>
+  <file name="index.html" crc="425644218" seo="true" mt="1469038969453" redirect="true"/>
+  <file name="research.html" crc="214772609" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="projects.html" crc="4067404996" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="about.html" crc="3762598470" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="perceptron.html" crc="3793670988" seo="true" mt="1469039067459" redirect="true"/>
+  <file name="svm.html" crc="157507973" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="silly.html" crc="52034480" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="sherlock.html" crc="425568284" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="decision-trees-and-knn.html" crc="3994738042" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="what-i-m-reading.html" crc="105363359" seo="true" mt="1469038943088" redirect="true"/>
 </manifest>
