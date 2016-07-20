@@ -1,21 +1,21 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1468980735824">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1468980846234">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="51004762" ref="phone>index:phone>home"/>
       <file name="master_b-master.css" crc="130310889" ref="phone>about:phone>projects:phone>research:phone>what-i-m-reading"/>
-      <file name="about.css" crc="377745972" ref="phone>about"/>
-      <file name="projects.css" crc="522602217" ref="phone>projects"/>
-      <file name="index.css" crc="93355" ref="phone>index"/>
-      <file name="home.css" crc="4185356268" ref="phone>home"/>
-      <file name="research.css" crc="155964154" ref="phone>research"/>
-      <file name="what-i-m-reading.css" crc="348657873" ref="phone>what-i-m-reading"/>
+      <file name="about.css" crc="4091686470" ref="phone>about"/>
+      <file name="projects.css" crc="498282081" ref="phone>projects"/>
+      <file name="index.css" crc="146251661" ref="phone>index"/>
+      <file name="home.css" crc="4055991498" ref="phone>home"/>
+      <file name="research.css" crc="19307841" ref="phone>research"/>
+      <file name="what-i-m-reading.css" crc="112030584" ref="phone>what-i-m-reading"/>
     </folder>
-    <file name="index.html" crc="4108628971" seo="true" mt="1468980712434" redirect="true"/>
-    <file name="research.html" crc="117225325" seo="true" mt="1468980697553" redirect="true"/>
-    <file name="about.html" crc="357925111" seo="true" mt="1468980697553" redirect="true"/>
-    <file name="projects.html" crc="308707194" seo="true" mt="1468980697553" redirect="true"/>
-    <file name="home.html" crc="3890012487" seo="true" mt="1468980712434" redirect="true"/>
-    <file name="what-i-m-reading.html" crc="3915937117" seo="true" mt="1468980697553" redirect="true"/>
+    <file name="index.html" crc="214308888" seo="true" mt="1468980785731" redirect="true"/>
+    <file name="research.html" crc="3770994132" seo="true" mt="1468980769065" redirect="true"/>
+    <file name="about.html" crc="273224388" seo="true" mt="1468980769065" redirect="true"/>
+    <file name="projects.html" crc="4237705702" seo="true" mt="1468980769065" redirect="true"/>
+    <file name="home.html" crc="4209704992" seo="true" mt="1468980785731" redirect="true"/>
+    <file name="what-i-m-reading.html" crc="293379677" seo="true" mt="1468980769065" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="282696827"/>

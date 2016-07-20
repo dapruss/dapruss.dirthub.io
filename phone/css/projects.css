@@ -1,7 +1,7 @@
 .version.projects /* version checker */
 {
-	color: #00001F;
-	background-color: #2646E9;
+	color: #00001D;
+	background-color: #B32E61;
 }
 
 @-ms-viewport
@@ -79,7 +79,7 @@
 #menuu2898
 {
 	z-index: 10;
-	width: 101px;
+	width: 94px;
 	margin-right: -10000px;
 	margin-top: 2px;
 	left: 279px;
@@ -87,27 +87,27 @@
 
 #u2899
 {
-	width: 101px;
+	width: 94px;
 	min-height: 71px;
 	margin-right: -10000px;
 }
 
 #u2900
 {
-	width: 101px;
+	width: 94px;
 	padding-bottom: 49px;
 }
 
 #u2900:hover
 {
-	width: 101px;
+	width: 94px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u2900.MuseMenuActive
 {
-	width: 101px;
+	width: 94px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -118,7 +118,7 @@
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 24px;
-	left: 28px;
+	left: 25px;
 }
 
 #u2900:hover #u2903-4
