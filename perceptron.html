@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.musemenu.js", "jquery.watch.js", "perceptron.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "jquery.musemenu.js", "jquery.watch.js", "perceptron.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -23,7 +23,7 @@
   <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
   <![endif]-->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//use.typekit.net/ik/UQLadcXkcAZVTDA5qvcneN5V-7qlJ6Trndkkq9wBT4bfe79gfVLPvMIPH2woF2JaFDmLFD9twD6hZe9UjAbu5e9twRi8whj3ZQ6kFQ9u52StjQw-wKG0ZeBD-eB3S1mDSkoRdhXCZeBD-eB3S1mDSkoRdhXCiaiaOcsyShyySY4uSaw0jhNlJ6NDdamkjh9lShB0Sku3Scv7f6RUy6IbMg6IJMJ7f6RDy6IbMg6YJMJ7f6Ruy6IbMg65JM4HgIuuShAbML02z_3B.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//use.typekit.net/ik/BoBV5QNryffkyak2q-TEbb5qNynjM1u0Aj5pKXQlzPtfe79gfVLPvMIPH2woF2JaFDmLFD9twD6hZe9UjAbu5e9twRi8whj3ZQ6kFQ9u52StjQw-wKG0ZeBD-eB3S1mDSkoRdhXCZeBD-eB3S1mDSkoRdhXCiaiaOcsyShyySY4uSaw0jhNlJ6NDdamkjh9lShB0Sku3Scv7f6RUy6IbMg6IJMJ7f6RDy6IbMg6YJMJ7f6Ruy6IbMg65JM4HgIuuShAbMj7Bz_3B.js" type="text/javascript">\x3C/script>');
 </script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -34,7 +34,7 @@
 
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <div class="mse_pre_init" id="u1609"><!-- simple frame --></div>
+    <div class="museBGSize mse_pre_init" id="u1609"><!-- simple frame --></div>
     <div class="clearfix colelem" id="u1062"><!-- group -->
      <div class="clearfix ose_pre_init grpelem" id="u1063-3"><!-- content -->
       <p id="u1063">&nbsp;</p>
@@ -60,7 +60,7 @@
     <div class="rounded-corners clearfix colelem" id="u2146"><!-- group -->
      <div class="clearfix grpelem" id="u2147"><!-- group -->
       <div class="clearfix grpelem" id="u2148-38"><!-- content -->
-       <p id="u2148-5"><span id="u2148">Perceptron implementation</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="nonblock" href="projects.html">Back to Projects</a></p>
+       <p id="u2148-5"><span id="u2148">Perceptron implementation</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="nonblock" href="projects.html">Back to Projects</a></p>
        <p id="u2148-6">&nbsp;</p>
        <p id="u2148-12">First, I implemented a regular perceptron. I perform an update on an example (<span id="u2148-8">x</span>, y) (note: bold-face denotes vectors) if <span><span class="actAsInlineDiv normal_text" id="u2174"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2168"><!-- image --><img id="u2168_img" src="images/update.jpg" alt="" width="118" height="30"/></span></span></span>This is the equivalent of checking if&nbsp; the sign of the true label is the same as the predicted label; if they are different signs (positive and negative), their product is always negative. When the prediction is incorrect, we update the weight vector:</p>
        <p id="u2148-16"><span id="u2148-13">​</span><span><span class="actAsInlineDiv normal_text" id="u2181"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u2175"><!-- image --><img id="u2175_img" src="images/perceptron.jpg" alt="" width="180" height="42"/></span></span></span></p>
@@ -103,6 +103,7 @@ University of Colorado, Boulder ENVD 201 1060 18th Street University of Colorado
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?275725342" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
   <script src="scripts/jquery.scrolleffects.js?206645848" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>

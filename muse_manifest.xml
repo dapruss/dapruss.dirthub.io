@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1469039109166">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dashapruss.com" resolutions="1x" timestamp="1469039251189">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="51004762" ref="phone>index:phone>home"/>
@@ -40,16 +40,16 @@
     <file name="jquery.watch.js" crc="3999102769" ref="research:projects:index:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:research:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:perceptron"/>
     <file name="museredirect.js" crc="3899419633" ref="index:research:projects:about:what-i-m-reading"/>
   </folder>
   <folder name="images">
     <file name="img_5339.jpg" crc="4187921669" ref="index"/>
     <file name="githublogo.png" crc="4058062609" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
     <file name="linkedinlogo.png" crc="533458644" seo="true" ref="index:research:projects:about:perceptron:svm:silly:sherlock:decision-trees-and-knn:phone>index:phone>research:phone>about:phone>projects:phone>home:phone>what-i-m-reading:what-i-m-reading"/>
-    <file name="img_5345.jpg" crc="63111802" ref="research"/>
+    <file name="img_5345.jpg" crc="63111802" ref="research:perceptron"/>
     <file name="marclab2.jpg" crc="3900387458" seo="true" ref="research:phone>research"/>
-    <file name="favicon.ico" crc="3779405195" ref="index"/>
+    <file name="favicon.ico" crc="3779405195" ref="index:perceptron"/>
     <file name="u1484-4.png" crc="3872592125" ref="index"/>
     <file name="u1491-4.png" crc="260390181" ref="index"/>
     <file name="u1485-4.png" crc="4197678703" ref="index"/>
@@ -79,10 +79,10 @@
   <file name="research.html" crc="214772609" seo="true" mt="1469038943088" redirect="true"/>
   <file name="projects.html" crc="4067404996" seo="true" mt="1469038943088" redirect="true"/>
   <file name="about.html" crc="3762598470" seo="true" mt="1469038943088" redirect="true"/>
-  <file name="perceptron.html" crc="3793670988" seo="true" mt="1469039067459" redirect="true"/>
-  <file name="svm.html" crc="157507973" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="perceptron.html" crc="246629827" seo="true" mt="1469039194916" redirect="true"/>
+  <file name="svm.html" crc="350499215" seo="true" mt="1469039220466" redirect="true"/>
   <file name="silly.html" crc="52034480" seo="true" mt="1469038943088" redirect="true"/>
-  <file name="sherlock.html" crc="425568284" seo="true" mt="1469038943088" redirect="true"/>
+  <file name="sherlock.html" crc="17702265" seo="true" mt="1469039239809" redirect="true"/>
   <file name="decision-trees-and-knn.html" crc="3994738042" seo="true" mt="1469038943088" redirect="true"/>
   <file name="what-i-m-reading.html" crc="105363359" seo="true" mt="1469038943088" redirect="true"/>
 </manifest>
