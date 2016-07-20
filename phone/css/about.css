@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000F3;
-	background-color: #E22E46;
+	color: #00000A;
+	background-color: #82850F;
 }
 
 @-ms-viewport
@@ -39,7 +39,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1530px;
+	min-height: 1553px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -377,7 +377,7 @@
 #pu3645
 {
 	width: 0.01px;
-	padding-bottom: 14.930769230770238px;
+	padding-bottom: 36.93076923077024px;
 	position: relative;
 	left: 17px;
 	padding-top: 14px;
@@ -530,7 +530,7 @@
 #pu3239-3
 {
 	width: 0.01px;
-	margin-top: 7px;
+	margin-top: 8px;
 }
 
 #u3239-3,#u3239-3-bw
