@@ -20,8 +20,8 @@
 #u2673-4
 {
 	background-color: transparent;
-	line-height: 34px;
 	color: #FFFFFF;
+	line-height: 34px;
 	font-size: 28px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
@@ -55,10 +55,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
 	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -90,17 +90,6 @@
 {
 	background-repeat: no-repeat;
 	background-position: center center;
-}
-
-#u2900.MuseMenuActive #u2901
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-}
-
-#u2900.MuseMenuActive,#u2904
-{
-	background-color: transparent;
 }
 
 #u3362
@@ -192,11 +181,6 @@
 	position: relative;
 }
 
-#u3362.MuseMenuActive,#u2928.MuseMenuActive,#u2935.MuseMenuActive,#u2944.MuseMenuActive
-{
-	background-color: #666666;
-}
-
 #u2947-4
 {
 	background-color: transparent;
@@ -217,6 +201,51 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
+}
+
+#u2946
+{
+	position: relative;
+	background: #999999 url("../../images/arrowmenuright.gif") no-repeat center center;
+}
+
+#u2900.MuseMenuActive #u2901,#u2944.MuseMenuActive #u2946
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#u2900.MuseMenuActive,#u2904,#u2942
+{
+	background-color: transparent;
+}
+
+#u3635
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u3635:hover
+{
+	background-color: #AAAAAA;
+}
+
+#u3362.MuseMenuActive,#u2928.MuseMenuActive,#u2935.MuseMenuActive,#u2944.MuseMenuActive,#u3635.MuseMenuActive
+{
+	background-color: #666666;
+}
+
+#u3637-4
+{
+	background-color: transparent;
+	font-size: 11px;
+	text-align: center;
+	line-height: 13px;
+	position: relative;
 }
 
 .MenuItem /* unifiedNavBar */
@@ -243,7 +272,7 @@
 	position: relative;
 }
 
-#u2905,#u3361,#u2927,#u2934,#u2941,#u3240,#u3244
+#u2905,#u3361,#u2927,#u2934,#u2941,#u2943,#u3634,#u3240,#u3244
 {
 	background-color: transparent;
 	position: relative;
