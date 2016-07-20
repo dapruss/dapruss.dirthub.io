@@ -1,7 +1,7 @@
 .version.home /* version checker */
 {
-	color: #0000FB;
-	background-color: #3D4D3F;
+	color: #0000F9;
+	background-color: #7777EC;
 }
 
 @-ms-viewport
@@ -80,7 +80,7 @@
 #menuu2585
 {
 	z-index: 10;
-	width: 90px;
+	width: 99px;
 	margin-right: -10000px;
 	margin-top: 6px;
 	left: 281px;
@@ -88,38 +88,38 @@
 
 #u2600
 {
-	width: 90px;
+	width: 99px;
 	min-height: 67px;
 	margin-right: -10000px;
 }
 
 #u2603
 {
-	width: 90px;
+	width: 99px;
 	padding-bottom: 45px;
 }
 
 #u2603:hover
 {
-	width: 90px;
+	width: 99px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u2603.MuseMenuActive
 {
-	width: 90px;
+	width: 99px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u2604-4
 {
-	width: 49px;
+	width: 44px;
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 22px;
-	left: 20px;
+	left: 27px;
 }
 
 #u2603:hover #u2604-4
@@ -127,7 +127,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 49px;
+	width: 44px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -136,7 +136,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 49px;
+	width: 44px;
 	margin: 0px -10000px 0px 0px;
 }
 

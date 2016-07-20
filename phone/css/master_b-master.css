@@ -80,24 +80,6 @@
 	font-style: normal;
 }
 
-#u2901
-{
-	position: relative;
-	background: transparent url("../../images/arrowmenuright.gif") no-repeat center center;
-}
-
-#u2900:hover #u2901
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-}
-
-#u2900.MuseMenuActive #u2901
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-}
-
 #u2900.MuseMenuActive,#u2904
 {
 	background-color: transparent;
